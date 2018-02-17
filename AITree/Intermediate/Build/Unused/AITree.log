@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading AITreeEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Parsing headers for AITreeEditor
+    Running UnrealHeaderTool "D:\UNREAL\AITree\AITree.uproject" "D:\UNREAL\AITree\Intermediate\Build\Win64\AITreeEditor\Development\AITreeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for AITreeEditor in 10.6387067 seconds
+  Performing 4 actions (4 in parallel)
+  AI_Drawable_HUD.cpp
+  AI_Drawable_HUD.gen.cpp
+  [3/4] Link UE4Editor-AITree-3763.dll
+  [4/4] Link UE4Editor-AITree-3763.lib
+     Creating library D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AITree-3763.lib and object D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AITree-3763.exp
+     Creating library D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AITree-3763.suppressed.lib and object D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AITree-3763.suppressed.exp
+  Deploying AITreeEditor Win64 Development...
+  Total build time: 19.66 seconds (Local executor: 1.72 seconds)

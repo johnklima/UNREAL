@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AITree-2204.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\AITree\AITree.cpp.obj"
+"D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\AITree\AI_Drawable_HUD.cpp.obj"
+"D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\AITree\AITree.init.gen.cpp.obj"
+"D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\AITree\AI_Drawable_HUD.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\AITree\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\UNREAL\AITree\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AITree-2204.lib"
