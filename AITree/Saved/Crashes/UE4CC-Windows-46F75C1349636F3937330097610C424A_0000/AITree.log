@@ -1,0 +1,615 @@
+﻿Log file open, 02/18/18 14:01:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AITree
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-722455386) SRandInit(-722455386).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.199463
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/UNREAL/AITree/Binaries/Win64/UE4Editor-AITree-8219.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.18-13.01.10:014][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.18-13.01.10:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.18-13.01.10:022][  0]LogInit: Computer: MININT-BGCOGT6
+[2018.02.18-13.01.10:022][  0]LogInit: User: Administrator
+[2018.02.18-13.01.10:022][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.18-13.01.10:022][  0]LogInit: High frequency timer resolution =2.533208 MHz
+[2018.02.18-13.01.10:022][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.18-13.01.10:022][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.18-13.01.10:022][  0]LogMemory: Process Physical Memory: 273.75 MB used, 273.75 MB peak
+[2018.02.18-13.01.10:022][  0]LogMemory: Process Virtual Memory: 272.09 MB used, 272.09 MB peak
+[2018.02.18-13.01.10:022][  0]LogMemory: Physical Memory: 6031.33 MB used,  10301.77 MB free, 16333.10 MB total
+[2018.02.18-13.01.10:022][  0]LogMemory: Virtual Memory: 680.28 MB used,  10301.77 MB free, 134217728.00 MB total
+[2018.02.18-13.01.10:170][  0]LogInit: Using OS detected language (en-US).
+[2018.02.18-13.01.10:170][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.18-13.01.10:173][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.18-13.01.10:590][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.18-13.01.10:846][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.18-13.01.10:894][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.02.18-13.01.10:894][  0]LogD3D11RHI:       4061/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.18-13.01.10:896][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.18-13.01.10:896][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.18-13.01.10:896][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.18-13.01.10:903][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.18-13.01.10:903][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.18-13.01.10:903][  0]LogWindows: EnumDisplayDevices:
+[2018.02.18-13.01.10:903][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2018.02.18-13.01.10:903][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.18-13.01.10:903][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.18-13.01.10:903][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.18-13.01.10:904][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.18-13.01.10:904][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.02.18-13.01.10:904][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.18-13.01.10:904][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.18-13.01.10:904][  0]LogRHI: Texture pool is 2843 MB (70% of 4061 MB)
+[2018.02.18-13.01.10:932][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.18-13.01.10:944][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.18-13.01.10:988][  0]LogShaderCompilers: Guid format shader working directory is 38 characters bigger than the processId version (D:/UNREAL/AITree/Intermediate/Shaders/WorkingDirectory/6496/).
+[2018.02.18-13.01.10:988][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/00A363F54AFC9CD0B8A417B09382BE93/'.
+[2018.02.18-13.01.10:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.18-13.01.11:973][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.18-13.01.12:029][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.18-13.01.12:082][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.18-13.01.12:137][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.18-13.01.12:192][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.18-13.01.12:245][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.18-13.01.12:302][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.18-13.01.12:355][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.18-13.01.12:402][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.18-13.01.12:456][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.18-13.01.12:508][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.18-13.01.12:562][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.18-13.01.12:613][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.18-13.01.12:666][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.18-13.01.12:772][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.18-13.01.12:772][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.18-13.01.12:830][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.18-13.01.12:875][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.18-13.01.12:966][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.18-13.01.12:991][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.18-13.01.13:042][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.18-13.01.13:094][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.18-13.01.13:155][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.18-13.01.13:207][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.18-13.01.13:207][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.18-13.01.13:677][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.18-13.01.13:748][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.18-13.01.13:749][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.18-13.01.13:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNREAL/AITree/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.18-13.01.13:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.18-13.01.13:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNREAL/AITree/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.18-13.01.13:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.18-13.01.13:765][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.18-13.01.13:777][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.18-13.01.13:787][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.18-13.01.13:788][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.18-13.01.13:788][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.18-13.01.13:789][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.18-13.01.14:181][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.18-13.01.14:528][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.18-13.01.14:571][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.18-13.01.14:571][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.18-13.01.14:571][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.18-13.01.14:571][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.18-13.01.14:571][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.18-13.01.14:598][  0]LogNetVersion: AITree , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3313755417)
+[2018.02.18-13.01.14:768][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.02.18-13.01.15:309][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.089532 seconds
+[2018.02.18-13.01.15:316][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.18-13.01.15:316][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.18-13.01.15:316][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.18-13.01.15:372][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.18-13.01.18:273][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.18-13.01.18:314][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.18-13.01.19:122][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.18-13.01.19:590][  0]SourceControl: Source control is disabled
+[2018.02.18-13.01.19:590][  0]SourceControl: Source control is disabled
+[2018.02.18-13.01.19:649][  0]SourceControl: Source control is disabled
+[2018.02.18-13.01.19:704][  0]SourceControl: Source control is disabled
+[2018.02.18-13.01.20:591][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.18-13.01.20:903][  0]LogOcInput: OculusInput pre-init called
+[2018.02.18-13.01.21:190][  0]LogEngine: Initializing Engine...
+[2018.02.18-13.01.21:192][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.18-13.01.21:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.18-13.01.21:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.18-13.01.21:542][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.18-13.01.21:549][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.18-13.01.21:568][  0]LogInit: FAudioDevice initialized.
+[2018.02.18-13.01.21:652][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.18-13.01.21:663][  0]LogInit: Texture streaming: Enabled
+[2018.02.18-13.01.21:766][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.18-13.01.21:911][  0]LogInit: Transaction tracking system initialized
+[2018.02.18-13.01.22:272][  0]BlueprintLog: New page: Editor Load
+[2018.02.18-13.01.23:255][  0]LocalizationService: Localization service is disabled
+[2018.02.18-13.01.24:049][  0]LogConsoleResponse: Display: 
+[2018.02.18-13.01.24:223][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.18-13.01.24:223][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.18-13.01.24:223][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.18-13.01.24:249][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AITree/Content/' took 0.01s
+[2018.02.18-13.01.25:490][  0]SourceControl: Source control is disabled
+[2018.02.18-13.01.25:490][  0]Cmd: MAP LOAD FILE="D:/UNREAL/AITree/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.18-13.01.25:490][  0]LightingResults: New page: Lighting Build
+[2018.02.18-13.01.25:540][  0]MapCheck: New page: Map Check
+[2018.02.18-13.01.25:540][  0]LightingResults: New page: Lighting Build
+[2018.02.18-13.01.25:590][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EdGraph_0.K2Node_FunctionEntry_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:139][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.EdGraphNode_Comment_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:139][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:139][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_39' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:139][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:140][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_108971' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:140][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_112027' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:140][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_20844' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:140][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_21305' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:140][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_3716' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:140][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4184' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4223' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4678' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_61214' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_61534' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_65164' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_7346' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8160' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8427' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8733' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_87421' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8781' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_153' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_155' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_DynamicCast_179' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:UserConstructionScript.K2Node_FunctionEntry_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_203' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_27' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:141][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAction_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_1058' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_1657' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_50' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_86' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputKey_17975' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_1700' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_174' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_190' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_91' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1333' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1684' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1685' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_660' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_803' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:142][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_850' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.18-13.01.26:203][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.18-13.01.26:215][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.18-13.01.26:229][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.18-13.01.26:294][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.423ms to complete.
+[2018.02.18-13.01.26:294][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.804
+[2018.02.18-13.01.26:360][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.18-13.01.26:442][  0]LogCollectionManager: Loaded 0 collections in 0.001417 seconds
+[2018.02.18-13.01.26:524][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AITree/Saved/Collections/' took 0.01s
+[2018.02.18-13.01.26:524][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AITree/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.02.18-13.01.26:524][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AITree/Content/Collections/' took 0.01s
+[2018.02.18-13.01.26:524][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.18-13.01.26:533][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2364 classes and 521 folders.
+[2018.02.18-13.01.26:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.18-13.01.26:639][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.18-13.01.26:686][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.18-13.01.26:790][  0]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.18-13.01.26:793][  0]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.18-13.01.26:799][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.18-13.01.26:896][  0]LogRenderer: Reallocating scene render targets to support 812x400 Format 10 NumSamples 1 (Frame:1).
+[2018.02.18-13.01.27:090][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.18-13.01.27:090][  0]LogLoad: (Engine Initialization) Total time: 19.67 seconds
+[2018.02.18-13.01.27:090][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.18-13.01.27:090][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.18-13.01.27:128][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.18-13.01.27:169][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-13.01.27:205][  1]LogAssetRegistry: Asset discovery search completed in 12.4595 seconds
+[2018.02.18-13.01.27:208][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.18-13.01.27:208][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.02.18-13.01.28:114][ 44]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-13.02.18:489][ 65]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-13.02.18:815][ 65]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.02.18-13.02.19:514][ 65]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.18-13.02.19:582][ 65]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.18-13.02.47:146][697]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.18-13.02.47:354][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.02.18-13.02.47:778][697]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.02.18-13.02.47:810][697]LogRenderer: Reallocating scene render targets to support 912x400 Format 10 NumSamples 1 (Frame:1).
+[2018.02.18-13.02.47:811][697]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.18-13.02.52:948][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.02.18-13.02.53:223][995]LogRenderer: Reallocating scene render targets to support 912x672 Format 10 NumSamples 1 (Frame:1).
+[2018.02.18-13.02.54:488][ 70]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.02.18-13.02.54:748][ 70]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.18-13.02.55:547][110]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.02.18-13.11.27:341][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2018.02.18-13.11.27:343][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin] ([1] browsable assets)...
+[2018.02.18-13.11.27:359][949]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin]
+[2018.02.18-13.11.27:359][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin]
+[2018.02.18-13.11.27:408][949]LogSavePackage: Save=42.93ms
+[2018.02.18-13.11.27:408][949]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin_Auto14C3B3E0F4240ECE4B5E72483C87BF733.tmp' to 'D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto1.uasset'
+[2018.02.18-13.11.27:409][949]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto1.uasset
+[2018.02.18-13.11.27:409][949]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.02.18-13.23.48:219][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.02.18-13.26.50:884][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.02.18-13.27.22:514][523]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.019
+[2018.02.18-13.27.22:515][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin] ([1] browsable assets)...
+[2018.02.18-13.27.22:528][523]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin]
+[2018.02.18-13.27.22:528][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin]
+[2018.02.18-13.27.22:564][523]LogSavePackage: Save=30.63ms
+[2018.02.18-13.27.22:564][523]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin_Auto22206BAAB44448B0C72F95FB5996CFF95.tmp' to 'D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto2.uasset'
+[2018.02.18-13.27.22:566][523]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto2.uasset
+[2018.02.18-13.27.22:566][523]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.02.18-13.27.58:082][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.27.58:107][910]LogSavePackage: Save=19.48ms
+[2018.02.18-13.27.58:107][910]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin46A802DE4F58FD2E0971718A1931FF70.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.27.58:109][910]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.30.22:789][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_6.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.02.18-13.30.23:090][852]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.18-13.30.34:101][512]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.02.18-13.31.04:856][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.31.04:896][630]LogSavePackage: Save=34.97ms
+[2018.02.18-13.31.04:896][630]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin7EE120684BE675B585D3B2BA94D7FAF6.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.31.04:898][630]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.31.05:368][658]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.34.09:962][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.34.09:996][289]LogSavePackage: Save=28.02ms
+[2018.02.18-13.34.09:996][289]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin8B4DD7144D42AE3EF5B0B58A870576BF.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.34.09:998][289]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.34.10:617][326]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.34.13:795][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_BipedalCharacter" FILE="D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset" SILENT=true
+[2018.02.18-13.34.13:840][507]LogSavePackage: Save=39.83ms
+[2018.02.18-13.34.13:840][507]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/AI_BipedalCharacter95580B8E4855E3AE22D9FD89278098B5.tmp' to 'D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset'
+[2018.02.18-13.34.13:842][507]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset
+[2018.02.18-13.34.14:529][548]BlueprintLog: New page: Compile AI_BipedalCharacter
+[2018.02.18-13.34.29:821][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-13.34.29:871][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.18-13.34.29:871][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-13.34.29:872][436]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 18, 2018, 3:34:29 PM)
+[2018.02.18-13.34.29:872][436]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.18-13.34.29:892][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020407s)
+[2018.02.18-13.34.29:893][436]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.18-13.34.29:894][436]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.02.18-13.34.29:894][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021984s)
+[2018.02.18-13.34.29:921][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.18-13.34.29:934][436]LogInit: FAudioDevice initialized.
+[2018.02.18-13.34.29:979][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.18-13.34.29:982][436]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.18-14.34.29
+[2018.02.18-13.34.29:982][436]LogWorld: Bringing up level for play took: 0.002691
+[2018.02.18-13.34.30:028][436]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.02.18-13.34.30:030][436]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.155
+[2018.02.18-13.34.30:030][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.18-13.35.06:963][650]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-29.30 Y=17.51 Z=0.00 Location: X=-1083.16 Y=-36.76 Z=228.40 Normal: X=0.09 Y=-1.00 Z=0.00 PenetrationDepth:0.351 Actor:AI_Character_110 Component:Cube1 BoneName:None (0 other events since notify)
+[2018.02.18-13.35.07:663][692]LogCharacterMovement: AI_BipedalCharacter_115 is stuck and failed to move! Velocity: X=-444.18 Y=-162.64 Z=0.00 Location: X=-912.62 Y=-47.16 Z=228.40 Normal: X=0.96 Y=-0.29 Z=-0.00 PenetrationDepth:20.586 Actor:AI_Character_110 Component:Cube1 BoneName:None (0 other events since notify)
+[2018.02.18-13.35.16:348][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.18-13.35.16:383][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.18-13.39.58:765][  7]LogSavePackage: Save=181.84ms
+[2018.02.18-13.39.58:765][  7]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/ThirdPersonExampleMap_Auto33CDD3C2B4D19929BAF98B58E812FBA56.tmp' to 'D:/UNREAL/AITree/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.02.18-13.39.58:766][  7]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2018.02.18-13.39.58:767][  7]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.493
+[2018.02.18-13.39.58:767][  7]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.493
+[2018.02.18-13.39.58:769][  7]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin] ([1] browsable assets)...
+[2018.02.18-13.39.58:782][  7]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin]
+[2018.02.18-13.39.58:782][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin]
+[2018.02.18-13.39.58:819][  7]LogSavePackage: Save=31.84ms
+[2018.02.18-13.39.58:819][  7]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin_Auto3D8F82A5647771BDF89969FB1EBDFBF6D.tmp' to 'D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto3.uasset'
+[2018.02.18-13.39.58:820][  7]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto3.uasset
+[2018.02.18-13.39.58:820][  7]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.02.18-13.43.27:389][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_BipedalCharacter" FILE="D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset" SILENT=true
+[2018.02.18-13.43.27:434][620]LogSavePackage: Save=38.26ms
+[2018.02.18-13.43.27:434][620]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/AI_BipedalCharacterA2FD6CF3473EB63BC6570ABD2D0CC111.tmp' to 'D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset'
+[2018.02.18-13.43.27:435][620]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset
+[2018.02.18-13.43.28:002][654]BlueprintLog: New page: Compile AI_BipedalCharacter
+[2018.02.18-13.43.31:645][846]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.43.32:341][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.43.32:380][879]LogSavePackage: Save=33.97ms
+[2018.02.18-13.43.32:380][879]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_GoblinC59C24824FF2AA5BA0C7ED8252D841B2.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.43.32:382][879]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.44.37:520][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.44.37:562][770]LogSavePackage: Save=36.77ms
+[2018.02.18-13.44.37:562][770]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_GoblinFAB6F63F48B6B1307A6084B2A76C4796.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.44.37:564][770]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.44.37:998][796]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.44.49:835][497]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.45.03:265][294]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.45.04:389][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.45.04:431][352]LogSavePackage: Save=37.30ms
+[2018.02.18-13.45.04:431][352]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin72F131C446D326368D8C018E2A0A314A.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.45.04:433][352]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.47.43:870][517]BlueprintLog: New page: Compile AI_BipedalCharacter
+[2018.02.18-13.47.45:374][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_BipedalCharacter" FILE="D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset" SILENT=true
+[2018.02.18-13.47.45:415][579]LogSavePackage: Save=36.51ms
+[2018.02.18-13.47.45:415][579]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/AI_BipedalCharacter7843EB6C4CA2479C3767A7803C9B8CF6.tmp' to 'D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset'
+[2018.02.18-13.47.45:417][579]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset
+[2018.02.18-13.49.59:884][200]LogSavePackage: Save=191.26ms
+[2018.02.18-13.49.59:884][200]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/ThirdPersonExampleMap_Auto49346BC3445D1C35981F5A7977EE87C3E.tmp' to 'D:/UNREAL/AITree/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.02.18-13.49.59:886][200]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.02.18-13.49.59:887][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.517
+[2018.02.18-13.49.59:887][200]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.517
+[2018.02.18-13.49.59:890][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin] ([1] browsable assets)...
+[2018.02.18-13.49.59:915][200]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin]
+[2018.02.18-13.49.59:915][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin]
+[2018.02.18-13.49.59:953][200]LogSavePackage: Save=33.46ms
+[2018.02.18-13.49.59:953][200]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin_Auto400A9202647578F30A90B46AE1D43CE4D.tmp' to 'D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto4.uasset'
+[2018.02.18-13.49.59:954][200]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Saved/Autosaves/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin_Auto4.uasset
+[2018.02.18-13.49.59:954][200]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.02.18-13.50.22:952][573]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.50.22:958][573]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] Idle to AnimStateAttack  will never be taken, please connect something to  Can Enter Transition
+[2018.02.18-13.50.23:083][573]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] [2955.66] Compile of MixamoAnimBP_Goblin successful, but with 1 Warning(s) [in 131 ms] (/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin)
+[2018.02.18-13.50.23:745][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.50.23:786][611]LogSavePackage: Save=35.55ms
+[2018.02.18-13.50.23:786][611]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin7AF7EF594DBF458D5D02CEA1E17F6A87.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.50.23:788][611]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.52.16:635][314]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.52.16:643][314]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] Idle to AnimStateAttack  will never be taken, please connect something to  Can Enter Transition
+[2018.02.18-13.52.16:765][314]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] [3069.34] Compile of MixamoAnimBP_Goblin successful, but with 1 Warning(s) [in 129 ms] (/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin)
+[2018.02.18-13.52.17:328][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.52.17:375][346]LogSavePackage: Save=41.76ms
+[2018.02.18-13.52.17:375][346]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_GoblinBF63588646B191D78A3C68AF69A57F52.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.52.17:376][346]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.53.09:302][431]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.53.09:312][431]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] Idle to AnimStateAttack  will never be taken, please connect something to  Can Enter Transition
+[2018.02.18-13.53.09:428][431]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] [3122.01] Compile of MixamoAnimBP_Goblin successful, but with 1 Warning(s) [in 125 ms] (/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin)
+[2018.02.18-13.53.09:953][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.53.09:998][460]LogSavePackage: Save=40.36ms
+[2018.02.18-13.53.09:998][460]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_GoblinCF0E7225491D0C083B2162A369EFA37A.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.53.09:999][460]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.53.52:801][ 25]BlueprintLog: New page: Compile AI_BipedalCharacter
+[2018.02.18-13.53.53:835][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_BipedalCharacter" FILE="D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset" SILENT=true
+[2018.02.18-13.53.53:879][ 58]LogSavePackage: Save=38.36ms
+[2018.02.18-13.53.53:879][ 58]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/AI_BipedalCharacter2EAC2D4047CDC3CFC86FFDAB2D9AC9B7.tmp' to 'D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset'
+[2018.02.18-13.53.53:881][ 58]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset
+[2018.02.18-13.53.59:006][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.53.59:050][363]LogSavePackage: Save=39.52ms
+[2018.02.18-13.53.59:050][363]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin6BC929E048B631B22EAADEBB61C5AFCE.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.53.59:052][363]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.53.59:954][417]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.53.59:963][417]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] Idle to AnimStateAttack  will never be taken, please connect something to  Can Enter Transition
+[2018.02.18-13.54.00:083][417]LogBlueprint: Warning: [Compiler MixamoAnimBP_Goblin] [3172.66] Compile of MixamoAnimBP_Goblin successful, but with 1 Warning(s) [in 128 ms] (/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.MixamoAnimBP_Goblin)
+[2018.02.18-13.56.47:869][470]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.56.50:345][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.56.50:398][607]LogSavePackage: Save=47.27ms
+[2018.02.18-13.56.50:398][607]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin2B00522E435B99099FB9568B622004A9.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.56.50:399][607]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.59.20:362][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.59.20:409][ 64]LogSavePackage: Save=41.99ms
+[2018.02.18-13.59.20:409][ 64]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_GoblinF73EE87E4D0268B7A6F18E8EF07D209B.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.59.20:411][ 64]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.59.21:030][101]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-13.59.58:245][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin" FILE="D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset" SILENT=true
+[2018.02.18-13.59.58:299][310]LogSavePackage: Save=48.63ms
+[2018.02.18-13.59.58:299][310]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/MixamoAnimBP_Goblin222BDFED4803958BBA28CB8C0D0E1CC1.tmp' to 'D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset'
+[2018.02.18-13.59.58:301][310]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/MixamoAnimPack/Mixamo_Goblin/Anims/MixamoAnimBP_Goblin.uasset
+[2018.02.18-13.59.59:204][364]BlueprintLog: New page: Compile MixamoAnimBP_Goblin
+[2018.02.18-14.00.19:481][569]BlueprintLog: New page: Compile AI_BipedalCharacter
+[2018.02.18-14.00.20:604][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_BipedalCharacter" FILE="D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset" SILENT=true
+[2018.02.18-14.00.20:650][606]LogSavePackage: Save=38.75ms
+[2018.02.18-14.00.20:650][606]LogSavePackage: Moving 'D:/UNREAL/AITree/Saved/AI_BipedalCharacter028B70484AF405FB33C98782BFDA3C6B.tmp' to 'D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset'
+[2018.02.18-14.00.20:652][606]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AITree/Content/ThirdPersonBP/Blueprints/AI_BipedalCharacter.uasset
+[2018.02.18-14.01.01:950][ 63]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.02.18-14.01.02:627][ 63]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.677 s
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: 
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: Stack: 
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000091782786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000009152123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000009153B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000008A5133F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000008F0E03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000008E593EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000008E4274AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000008E42ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000008E558225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000090547397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000009054CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000090789913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000905A3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000009057B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x000000009056D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000B132E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000B1321A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000B13303EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000B131D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000D9B9B85D USER32.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000D9B9B1EF USER32.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000B1331516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000083B950C8 UE4Editor.exe!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000083BA5430 UE4Editor.exe!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000083BA54AA UE4Editor.exe!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000083BB2379 UE4Editor.exe!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x0000000083BB3D57 UE4Editor.exe!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000D9871FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: [Callstack] 0x00000000D9F0EFB1 ntdll.dll!UnknownFunction []
+[2018.02.18-14.01.02:627][ 63]LogOutputDevice: Error: 
+[2018.02.18-14.01.02:636][ 63]LogStats:                SubmitErrorReport -  0.000 s
