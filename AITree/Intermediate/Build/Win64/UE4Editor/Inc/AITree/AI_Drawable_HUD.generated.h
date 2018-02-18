@@ -15,22 +15,22 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define AITree_Source_AITree_AI_Drawable_HUD_h_16_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execRunAlgorithm) \
+	DECLARE_FUNCTION(execRunCA_Algorithm) \
 	{ \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		this->RunAlgorithm(); \
+		this->RunCA_Algorithm(); \
 		P_NATIVE_END; \
 	}
 
 
 #define AITree_Source_AITree_AI_Drawable_HUD_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execRunAlgorithm) \
+	DECLARE_FUNCTION(execRunCA_Algorithm) \
 	{ \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		this->RunAlgorithm(); \
+		this->RunCA_Algorithm(); \
 		P_NATIVE_END; \
 	}
 

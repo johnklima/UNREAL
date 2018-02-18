@@ -2,9 +2,14 @@
 
 #include "AI_Drawable_HUD.h"
 int nextgen[MAX_CELLS][MAX_GENERATIONS];
-
-void AAI_Drawable_HUD::RunAlgorithm()
+void AAI_Drawable_HUD::RunWalker_Algorithm()
 {
+
+}
+void AAI_Drawable_HUD::RunCA_Algorithm()
+{
+
+	
 
 	if (generation == 0)
 	{

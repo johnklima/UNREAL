@@ -5,8 +5,16 @@
 #include "CoreMinimal.h"
 #include "GameFramework/HUD.h"
 #include "AI_Drawable_HUD.generated.h"
+
+//for CA
 #define MAX_CELLS 100
 #define MAX_GENERATIONS 100
+
+//for Walker
+#define MAX_COLUMNS 100
+#define MAX_ROWS 100
+
+
 /**
  * 
  */
@@ -18,7 +26,10 @@ class AITREE_API AAI_Drawable_HUD : public AHUD
 public:
 
 	UFUNCTION(BlueprintCallable, Category = "DrawAlgorithms")
-	void RunAlgorithm();
+	void RunCA_Algorithm();
+
+	UFUNCTION(BlueprintCallable, Category = "DrawAlgorithms")
+	void RunWalker_Algorithm();
 
 private:
 
