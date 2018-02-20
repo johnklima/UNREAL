@@ -18,12 +18,14 @@ void EmptyLinkFunctionForGeneratedCodeDrawHUD() {}
 	ENGINE_API UClass* Z_Construct_UClass_AHUD();
 	UPackage* Z_Construct_UPackage__Script_AI_Behaviour();
 	AI_BEHAVIOUR_API UFunction* Z_Construct_UFunction_ADrawHUD_drawCA();
+	AI_BEHAVIOUR_API UFunction* Z_Construct_UFunction_ADrawHUD_drawGOL();
 // End Cross Module References
 	void ADrawHUD::StaticRegisterNativesADrawHUD()
 	{
 		UClass* Class = ADrawHUD::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "drawCA", (Native)&ADrawHUD::execdrawCA },
+			{ "drawGOL", (Native)&ADrawHUD::execdrawGOL },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -43,6 +45,22 @@ void EmptyLinkFunctionForGeneratedCodeDrawHUD() {}
 		}
 		return ReturnFunction;
 	}
+	UFunction* Z_Construct_UFunction_ADrawHUD_drawGOL()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "Category", "DrawAlgorithms" },
+				{ "ModuleRelativePath", "DrawHUD.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_ADrawHUD, "drawGOL", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04020401, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_ADrawHUD_NoRegister()
 	{
 		return ADrawHUD::StaticClass();
@@ -58,6 +76,7 @@ void EmptyLinkFunctionForGeneratedCodeDrawHUD() {}
 			};
 			static const FClassFunctionLinkInfo FuncInfo[] = {
 				{ &Z_Construct_UFunction_ADrawHUD_drawCA, "drawCA" }, // 2890900101
+				{ &Z_Construct_UFunction_ADrawHUD_drawGOL, "drawGOL" }, // 4276429857
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -85,7 +104,7 @@ void EmptyLinkFunctionForGeneratedCodeDrawHUD() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ADrawHUD, 234157585);
+	IMPLEMENT_CLASS(ADrawHUD, 804003130);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ADrawHUD(Z_Construct_UClass_ADrawHUD, &ADrawHUD::StaticClass, TEXT("/Script/AI_Behaviour"), TEXT("ADrawHUD"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ADrawHUD);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

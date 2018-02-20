@@ -18,6 +18,9 @@ class AI_BEHAVIOUR_API ADrawHUD : public AHUD
 public:
 		UFUNCTION(BlueprintCallable, Category = "DrawAlgorithms")
 		void drawCA();
+
+		UFUNCTION(BlueprintCallable, Category = "DrawAlgorithms")
+		void drawGOL();
 	
 
 private:
@@ -27,15 +30,21 @@ private:
 
 	int generation = 0;
 	
-	//int ruleset[8] = { 0,1,0,1,1,0,1,0 };
+	int ruleset[8] = { 0,1,0,1,1,0,1,0 };
 
-	int ruleset[8] = { 1,0,1,0,0,1,0,1 };
+	//int ruleset[8] = { 1,0,1,0,0,1,0,1 };
 
 	int cells[MAX_ROWS][MAX_COLUMNS] = { 0 };
 
+	//CA
 	void generate();
 	void drawGeneration();
 	int  rules(int left, int me, int right);
 
+	//GOL
+	bool GOLinit = false;
+	void initGOL();
+	void generateGOL();
+	void drawGameOfLife();
 
 };

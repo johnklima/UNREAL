@@ -2,6 +2,82 @@
 
 #include "DrawHUD.h"
 
+
+void ADrawHUD::drawGOL()
+{
+
+
+	if (GOLinit == false)
+	{
+		initGOL();
+		GOLinit = true;
+
+	}
+
+	generateGOL();
+	drawGeneration();
+
+}
+
+void ADrawHUD::initGOL()
+{
+
+	for (int row = 1; row < MAX_ROWS ;row++) 
+	{
+		for (int col = 0; col < MAX_COLUMNS; col++)
+		{
+			cells[row][col] = FMath::RandRange(0,1);
+		}
+	}
+
+}
+
+void ADrawHUD::generateGOL()
+{
+	int next[MAX_ROWS][MAX_COLUMNS] = { 0 };
+
+	// Loop through every spot in our 2D array and check spots neighbors
+	for (int row = 1; row < MAX_ROWS - 1; row++) {
+		for (int col = 1; col < MAX_COLUMNS - 1; col++) {
+
+			// Add up all the states in a 3x3 surrounding grid, not including where i am now
+			int neighbors = 0;
+			
+			neighbors += cells[row - 1][col];
+			neighbors += cells[row + 1][col];
+			neighbors += cells[row][col - 1];
+			neighbors += cells[row][col + 1];			
+			neighbors += cells[row + 1][col + 1];
+			neighbors += cells[row + 1][col - 1];
+			neighbors += cells[row - 1][col + 1];
+			neighbors += cells[row - 1][col - 1];
+
+
+			// Rules of Life
+			if ((cells[row][col] == 1) && (neighbors <  2))				// Loneliness 
+				next[row][col] = 0;           
+			else if ((cells[row][col] == 1) && (neighbors >  3))		// Overpopulation
+				next[row][col] = 0;           
+			else if ((cells[row][col] == 0) && (neighbors == 3))		// Reproduction 
+				next[row][col] = 1;           
+			else														// Stasis         
+				next[row][col] = cells[row][col];  
+		}
+	}
+
+	//now swap new values for old
+	for (int row = 1; row < MAX_ROWS - 1; row++) 
+	{
+		for (int col = 1; col < MAX_COLUMNS - 1; col++) 
+		{
+		
+			cells[row][col] = next[row][col];
+		
+		}
+	}
+
+}
+
 void ADrawHUD::drawCA()
 {
 
