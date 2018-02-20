@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AI_Behaviour-640.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\EpicGames\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\AI_Behaviour\AI_Behaviour.cpp.obj"
+"D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\AI_Behaviour\DrawHUD.cpp.obj"
+"D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\AI_Behaviour\AI_Behaviour.init.gen.cpp.obj"
+"D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\AI_Behaviour\DrawHUD.gen.cpp.obj"
+"D:\EpicGames\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\AI_Behaviour\PCLaunch.rc.res"
+"D:\EpicGames\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AI_Behaviour-640.lib"

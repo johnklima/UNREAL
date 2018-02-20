@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\AI_Behaviour.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{32DC6F58-F957-482F-9D46-0EA6C9725FEE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\AI_Behaviour.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\AI_BehaviourEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A47E2597-F4B8-4C28-B1A6-5C48EA5514E7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\AI_Behaviour">
+			<UniqueIdentifier>{791EA7CD-A025-4068-ABFD-D523BEF6B5FC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\AI_Behaviour\AI_Behaviour.Build.cs">
+			<Filter>Source\AI_Behaviour</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\AI_Behaviour\AI_Behaviour.cpp">
+			<Filter>Source\AI_Behaviour</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\AI_Behaviour\AI_Behaviour.h">
+			<Filter>Source\AI_Behaviour</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\AI_Behaviour\DrawHUD.cpp">
+			<Filter>Source\AI_Behaviour</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\AI_Behaviour\DrawHUD.h">
+			<Filter>Source\AI_Behaviour</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
