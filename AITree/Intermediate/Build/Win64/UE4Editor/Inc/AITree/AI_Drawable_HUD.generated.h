@@ -13,7 +13,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define AITREE_AI_Drawable_HUD_generated_h
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_RPC_WRAPPERS \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execRunWalker_Algorithm) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->RunWalker_Algorithm(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execRunCA_Algorithm) \
 	{ \
@@ -24,7 +32,15 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execRunWalker_Algorithm) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->RunWalker_Algorithm(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execRunCA_Algorithm) \
 	{ \
@@ -35,7 +51,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_INCLASS_NO_PURE_DECLS \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAI_Drawable_HUD(); \
 	friend AITREE_API class UClass* Z_Construct_UClass_AAI_Drawable_HUD(); \
@@ -45,7 +61,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_INCLASS \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_INCLASS \
 private: \
 	static void StaticRegisterNativesAAI_Drawable_HUD(); \
 	friend AITREE_API class UClass* Z_Construct_UClass_AAI_Drawable_HUD(); \
@@ -55,7 +71,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_STANDARD_CONSTRUCTORS \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAI_Drawable_HUD(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAI_Drawable_HUD) \
@@ -68,7 +84,7 @@ private: \
 public:
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_ENHANCED_CONSTRUCTORS \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AAI_Drawable_HUD(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -81,26 +97,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AAI_Drawable_HUD); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAI_Drawable_HUD)
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_PRIVATE_PROPERTY_OFFSET
-#define AITree_Source_AITree_AI_Drawable_HUD_h_13_PROLOG
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_GENERATED_BODY_LEGACY \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_PRIVATE_PROPERTY_OFFSET
+#define AITree_Source_AITree_AI_Drawable_HUD_h_21_PROLOG
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_PRIVATE_PROPERTY_OFFSET \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_RPC_WRAPPERS \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_INCLASS \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_STANDARD_CONSTRUCTORS \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_PRIVATE_PROPERTY_OFFSET \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_RPC_WRAPPERS \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_INCLASS \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define AITree_Source_AITree_AI_Drawable_HUD_h_16_GENERATED_BODY \
+#define AITree_Source_AITree_AI_Drawable_HUD_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_PRIVATE_PROPERTY_OFFSET \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_INCLASS_NO_PURE_DECLS \
-	AITree_Source_AITree_AI_Drawable_HUD_h_16_ENHANCED_CONSTRUCTORS \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_PRIVATE_PROPERTY_OFFSET \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_INCLASS_NO_PURE_DECLS \
+	AITree_Source_AITree_AI_Drawable_HUD_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

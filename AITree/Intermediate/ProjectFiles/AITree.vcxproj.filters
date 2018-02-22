@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\AITree.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{7C0D0D9E-EF39-4B78-82FC-A8888AE5B441}</UniqueIdentifier>
+			<UniqueIdentifier>{DFD74978-4826-47CB-B7EC-FB5915993420}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\AITree.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{E743295D-5284-4524-827D-86AFE1A065F1}</UniqueIdentifier>
+			<UniqueIdentifier>{82868E4B-1198-478A-BB93-22F49E21AF61}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\AITree">
-			<UniqueIdentifier>{86026C34-62B8-4FDB-BF8B-1DF21027FFBA}</UniqueIdentifier>
+			<UniqueIdentifier>{BF21D043-E23A-4AAC-A388-088F885105D5}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\AITree\AITree.Build.cs">
 			<Filter>Source\AITree</Filter>

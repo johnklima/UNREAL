@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\AI_Behaviour.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{867E87F8-6C38-4D69-A991-ECD2BCBF7266}</UniqueIdentifier>
+			<UniqueIdentifier>{CCDCD22F-E6EF-4257-B2A4-8FB04C6E2CA5}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\AI_Behaviour.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{76A85A10-EDF6-4CEB-B039-9FEE6FE42BBA}</UniqueIdentifier>
+			<UniqueIdentifier>{559DB7D5-CB94-4BD4-BF75-50448E1135DD}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\AI_Behaviour">
-			<UniqueIdentifier>{713D0C37-54F1-49E2-A742-F4EE15C42BC1}</UniqueIdentifier>
+			<UniqueIdentifier>{F9C9E8A5-87D7-46CF-BD57-E4245BB22A18}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\AI_Behaviour\AI_Behaviour.Build.cs">
 			<Filter>Source\AI_Behaviour</Filter>

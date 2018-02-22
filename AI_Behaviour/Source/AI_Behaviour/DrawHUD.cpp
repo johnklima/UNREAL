@@ -149,7 +149,7 @@ void ADrawHUD::drawGeneration()
 		for (int col = 0; col < MAX_COLUMNS; col++)
 		{
 			if(cells[row][col] == 1)
-				DrawRect(mycolor, 10 * col, 10 * row, 10, 10);
+				DrawRect(mycolor, 3* col, 3 * row, 3, 3);
 
 		}
 	}

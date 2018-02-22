@@ -5,8 +5,8 @@
 #include "CoreMinimal.h"
 #include "GameFramework/HUD.h"
 #include "DrawHUD.generated.h"
-#define MAX_COLUMNS 100
-#define MAX_ROWS 100
+#define MAX_COLUMNS 300
+#define MAX_ROWS 300
 /**
  * 
  */

@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for AI_BehaviourEditor (no existing makefile)
+  Parsing headers for AI_BehaviourEditor
+    Running UnrealHeaderTool "D:\UNREAL\AI_Behaviour\AI_Behaviour.uproject" "D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\AI_BehaviourEditor\Development\AI_BehaviourEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for AI_BehaviourEditor in 7.3514427 seconds
+  Deleting old hot reload file: "D:\UNREAL\AI_Behaviour\Binaries\Win64\UE4Editor-AI_Behaviour-2791.dll".
+  Deleting old hot reload file: "D:\UNREAL\AI_Behaviour\Binaries\Win64\UE4Editor-AI_Behaviour-2791.pdb".
+  Performing 4 actions (4 in parallel)
+  DrawHUD.cpp
+  DrawHUD.gen.cpp
+  [3/4] Link UE4Editor-AI_Behaviour.dll
+  [4/4] Link UE4Editor-AI_Behaviour.lib
+     Creating library D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AI_Behaviour.lib and object D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AI_Behaviour.exp
+     Creating library D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AI_Behaviour.suppressed.lib and object D:\UNREAL\AI_Behaviour\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-AI_Behaviour.suppressed.exp
+  Deploying AI_BehaviourEditor Win64 Development...
+  Total build time: 12.76 seconds (Local executor: 1.43 seconds)

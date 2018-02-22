@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeAITree_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/AITree",
 				PKG_CompiledIn | 0x00000000,
-				0xC826BB5D,
-				0x3DC7440F,
+				0xABCE151B,
+				0xAB951C4C,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

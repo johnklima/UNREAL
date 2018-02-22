@@ -18,12 +18,14 @@ void EmptyLinkFunctionForGeneratedCodeAI_Drawable_HUD() {}
 	ENGINE_API UClass* Z_Construct_UClass_AHUD();
 	UPackage* Z_Construct_UPackage__Script_AITree();
 	AITREE_API UFunction* Z_Construct_UFunction_AAI_Drawable_HUD_RunCA_Algorithm();
+	AITREE_API UFunction* Z_Construct_UFunction_AAI_Drawable_HUD_RunWalker_Algorithm();
 // End Cross Module References
 	void AAI_Drawable_HUD::StaticRegisterNativesAAI_Drawable_HUD()
 	{
 		UClass* Class = AAI_Drawable_HUD::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "RunCA_Algorithm", (Native)&AAI_Drawable_HUD::execRunCA_Algorithm },
+			{ "RunWalker_Algorithm", (Native)&AAI_Drawable_HUD::execRunWalker_Algorithm },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -43,6 +45,22 @@ void EmptyLinkFunctionForGeneratedCodeAI_Drawable_HUD() {}
 		}
 		return ReturnFunction;
 	}
+	UFunction* Z_Construct_UFunction_AAI_Drawable_HUD_RunWalker_Algorithm()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "Category", "DrawAlgorithms" },
+				{ "ModuleRelativePath", "AI_Drawable_HUD.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_AAI_Drawable_HUD, "RunWalker_Algorithm", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04020401, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_AAI_Drawable_HUD_NoRegister()
 	{
 		return AAI_Drawable_HUD::StaticClass();
@@ -58,6 +76,7 @@ void EmptyLinkFunctionForGeneratedCodeAI_Drawable_HUD() {}
 			};
 			static const FClassFunctionLinkInfo FuncInfo[] = {
 				{ &Z_Construct_UFunction_AAI_Drawable_HUD_RunCA_Algorithm, "RunCA_Algorithm" }, // 2734954261
+				{ &Z_Construct_UFunction_AAI_Drawable_HUD_RunWalker_Algorithm, "RunWalker_Algorithm" }, // 3087108650
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -85,7 +104,7 @@ void EmptyLinkFunctionForGeneratedCodeAI_Drawable_HUD() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AAI_Drawable_HUD, 2695510244);
+	IMPLEMENT_CLASS(AAI_Drawable_HUD, 1023253401);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AAI_Drawable_HUD(Z_Construct_UClass_AAI_Drawable_HUD, &AAI_Drawable_HUD::StaticClass, TEXT("/Script/AITree"), TEXT("AAI_Drawable_HUD"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AAI_Drawable_HUD);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
