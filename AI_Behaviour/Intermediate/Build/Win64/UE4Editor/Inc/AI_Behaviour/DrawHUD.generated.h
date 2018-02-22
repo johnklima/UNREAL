@@ -15,6 +15,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define AI_Behaviour_Source_AI_Behaviour_DrawHUD_h_16_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execdrawRandomWalker) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->drawRandomWalker(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execdrawGOL) \
 	{ \
 		P_FINISH; \
@@ -33,6 +41,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define AI_Behaviour_Source_AI_Behaviour_DrawHUD_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execdrawRandomWalker) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->drawRandomWalker(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execdrawGOL) \
 	{ \

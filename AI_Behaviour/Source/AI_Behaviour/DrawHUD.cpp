@@ -1,6 +1,65 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "DrawHUD.h"
+void ADrawHUD::drawRandomWalker()
+{
+	if (RWinit == false)
+	{
+		initRW();
+		RWinit = true;
+	}
+
+	int dir = FMath::RandRange(0, 3);
+	
+	//change curCol and curRow according to dir above
+	if (dir == 0)
+		curRow--;		//UP
+
+	if (dir == 1)
+		curCol++;		//RIGHT
+
+	if (dir == 2)
+		curRow++;		//DOWN
+
+	if (dir == 3)		//LEFT
+		curCol--;
+
+	
+	//make sure curCol and curRow are within the bounds of the array 
+	if (curRow < 0)
+		curRow = 0;
+	
+	if (curRow > MAX_ROWS - 1)
+		curRow = MAX_ROWS - 1;
+
+	if (curCol < 0)
+		curCol = 0;
+
+	if (curCol > MAX_COLUMNS - 1)
+		curCol = MAX_COLUMNS - 1;
+
+	//set the new cells
+	cells[curRow][curCol] = 1;
+
+	//render the screen
+	drawGeneration();
+}
+
+void ADrawHUD::initRW()
+{
+
+	for (int row = 1; row < MAX_ROWS; row++)
+	{
+		for (int col = 0; col < MAX_COLUMNS; col++)
+		{
+			cells[row][col] = 0;
+		}
+	}
+
+	cells[curRow][curCol] = 1;
+	
+	RWinit = true;
+}
 
 
 void ADrawHUD::drawGOL()
@@ -22,11 +81,11 @@ void ADrawHUD::drawGOL()
 void ADrawHUD::initGOL()
 {
 
-	for (int row = 1; row < MAX_ROWS ;row++) 
+	for (int row = 1; row < MAX_ROWS; row++)
 	{
 		for (int col = 0; col < MAX_COLUMNS; col++)
 		{
-			cells[row][col] = FMath::RandRange(0,1);
+			cells[row][col] = FMath::RandRange(0, 1);
 		}
 	}
 
@@ -134,6 +193,7 @@ void ADrawHUD::generate()
 
 
 }
+
 void ADrawHUD::drawGeneration() 
 {
 
@@ -149,7 +209,7 @@ void ADrawHUD::drawGeneration()
 		for (int col = 0; col < MAX_COLUMNS; col++)
 		{
 			if(cells[row][col] == 1)
-				DrawRect(mycolor, 3* col, 3 * row, 3, 3);
+				DrawRect(mycolor, 3 * col, 3 * row, 3, 3);
 
 		}
 	}

@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeAI_Behaviour_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/AI_Behaviour",
 				PKG_CompiledIn | 0x00000000,
-				0xB1DC9FB6,
-				0x8FCC3C38,
+				0x9A046B9D,
+				0x9921C238,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

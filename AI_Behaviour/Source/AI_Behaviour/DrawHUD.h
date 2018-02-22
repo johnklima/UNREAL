@@ -23,10 +23,14 @@ public:
 		void drawGOL();
 	
 
+		UFUNCTION(BlueprintCallable, Category = "DrawAlgorithms")
+		void drawRandomWalker();
+
+
 private:
 
-	int curX = 0;
-	int curY = 0;
+	int curRow = MAX_ROWS / 2;
+	int curCol = MAX_COLUMNS / 2;
 
 	int generation = 0;
 	
@@ -45,6 +49,9 @@ private:
 	bool GOLinit = false;
 	void initGOL();
 	void generateGOL();
-	void drawGameOfLife();
+	
+	//random walker
+	bool RWinit = false;
+	void initRW();
 
 };
