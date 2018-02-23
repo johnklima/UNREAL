@@ -29,16 +29,27 @@ void EmptyLinkFunctionForGeneratedCodeCodeHUD() {}
 	}
 	UFunction* Z_Construct_UFunction_ACodeHUD_drawRandomWalker()
 	{
+		struct CodeHUD_eventdrawRandomWalker_Parms
+		{
+			int32 sizeX;
+			int32 sizeY;
+		};
 		static UFunction* ReturnFunction = nullptr;
 		if (!ReturnFunction)
 		{
+			static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_sizeY = { UE4CodeGen_Private::EPropertyClass::Int, "sizeY", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, STRUCT_OFFSET(CodeHUD_eventdrawRandomWalker_Parms, sizeY), METADATA_PARAMS(nullptr, 0) };
+			static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_sizeX = { UE4CodeGen_Private::EPropertyClass::Int, "sizeX", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, STRUCT_OFFSET(CodeHUD_eventdrawRandomWalker_Parms, sizeX), METADATA_PARAMS(nullptr, 0) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_sizeY,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_sizeX,
+			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 				{ "Category", "DrawAlgorithms" },
 				{ "ModuleRelativePath", "CodeHUD.h" },
 			};
 #endif
-			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_ACodeHUD, "drawRandomWalker", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04040401, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_ACodeHUD, "drawRandomWalker", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04040401, sizeof(CodeHUD_eventdrawRandomWalker_Parms), PropPointers, ARRAY_COUNT(PropPointers), 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
 		}
 		return ReturnFunction;
@@ -57,7 +68,7 @@ void EmptyLinkFunctionForGeneratedCodeCodeHUD() {}
 				(UObject* (*)())Z_Construct_UPackage__Script_CodeProject,
 			};
 			static const FClassFunctionLinkInfo FuncInfo[] = {
-				{ &Z_Construct_UFunction_ACodeHUD_drawRandomWalker, "drawRandomWalker" }, // 3408726426
+				{ &Z_Construct_UFunction_ACodeHUD_drawRandomWalker, "drawRandomWalker" }, // 1800897086
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -103,7 +114,7 @@ void EmptyLinkFunctionForGeneratedCodeCodeHUD() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACodeHUD, 3396124652);
+	IMPLEMENT_CLASS(ACodeHUD, 276020929);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ACodeHUD(Z_Construct_UClass_ACodeHUD, &ACodeHUD::StaticClass, TEXT("/Script/CodeProject"), TEXT("ACodeHUD"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ACodeHUD);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

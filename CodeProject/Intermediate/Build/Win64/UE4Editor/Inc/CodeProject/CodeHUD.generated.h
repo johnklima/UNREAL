@@ -17,9 +17,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
  \
 	DECLARE_FUNCTION(execdrawRandomWalker) \
 	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_sizeX); \
+		P_GET_PROPERTY(UIntProperty,Z_Param_sizeY); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		this->drawRandomWalker(); \
+		this->drawRandomWalker(Z_Param_sizeX,Z_Param_sizeY); \
 		P_NATIVE_END; \
 	}
 
@@ -28,9 +30,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
  \
 	DECLARE_FUNCTION(execdrawRandomWalker) \
 	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_sizeX); \
+		P_GET_PROPERTY(UIntProperty,Z_Param_sizeY); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		this->drawRandomWalker(); \
+		this->drawRandomWalker(Z_Param_sizeX,Z_Param_sizeY); \
 		P_NATIVE_END; \
 	}
 

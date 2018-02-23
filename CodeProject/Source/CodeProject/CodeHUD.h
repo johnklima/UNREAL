@@ -23,7 +23,7 @@ class CODEPROJECT_API ACodeHUD : public AHUD
 	GENERATED_BODY()
 	
 	UFUNCTION(BlueprintCallable, Category = "DrawAlgorithms")
-	void drawRandomWalker();
+	void drawRandomWalker(int sizeX, int sizeY);
 
 public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
