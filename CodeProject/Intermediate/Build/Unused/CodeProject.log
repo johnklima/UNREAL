@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading CodeProjectEditor (game project files are newer)
+  Compiling game modules for hot reload
+  Parsing headers for CodeProjectEditor
+    Running UnrealHeaderTool "D:\UNREAL\CodeProject\CodeProject.uproject" "D:\UNREAL\CodeProject\Intermediate\Build\Win64\CodeProjectEditor\Development\CodeProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CodeProjectEditor in 8.1388795 seconds
+  Performing 6 actions (4 in parallel)
+  CodeProject.cpp
+  CodeHUD.cpp
+  CodeProject.init.gen.cpp
+  CodeHUD.gen.cpp
+d:\unreal\codeproject\source\codeproject\CodeHUD.h(6): fatal error C1083: Cannot open include file: 'defines.h': No such file or directory
+D:\UNREAL\CodeProject\Source\CodeProject\CodeHUD.h(6): fatal error C1083: Cannot open include file: 'defines.h': No such file or directory
+ERROR : UBT error : Failed to produce item: D:\UNREAL\CodeProject\Binaries\Win64\UE4Editor-CodeProject-1134.dll
+  Total build time: 13.38 seconds (Local executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""D:\Program Files\Epic Games\UE_4.18\Engine\Build\BatchFiles\Build.bat" CodeProjectEditor Win64 Development "D:\UNREAL\CodeProject\CodeProject.uproject" -waitmutex" exited with code 5. Please verify that you have sufficient rights to run this command.

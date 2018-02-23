@@ -683,3 +683,632 @@ Total build time: 57.09 seconds (Local executor: 31.79 seconds)
 [2018.02.23-13.01.51:992][214]LogContentBrowser: Native class hierarchy updated for 'CodeProject' in 0.0005 seconds. Added 1 classes and 2 folders.
 [2018.02.23-13.01.52:048][214]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2366 classes and 525 folders.
 [2018.02.23-13.02.11:509][236]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.05.53:303][ 61]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.22:777][149]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.22:960][150]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.23:287][151]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.23:621][152]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.23:954][153]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.24:287][154]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.24:621][155]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.24:954][156]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.25:287][157]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.25:621][158]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.25:954][159]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.26:287][160]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.26:621][161]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.26:954][162]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.27:288][163]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.27:621][164]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.27:954][165]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.28:287][166]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.28:621][167]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.28:954][168]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.29:287][169]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.29:620][170]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.29:954][171]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.30:287][172]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.30:621][173]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.30:953][174]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.31:287][175]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.31:620][176]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.31:953][177]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.32:287][178]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.32:621][179]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.32:954][180]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.33:287][181]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.33:621][182]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.33:954][183]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.34:288][184]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.06.52:289][238]LogWindows: LaunchFileInExternalEditor D:/Unreal/CodeProject/Source/CodeProject/CodeHUD.h 
+[2018.02.23-13.06.52:451][238]LogWindows: Launch application code for D:/Unreal/CodeProject/Source/CodeProject/CodeHUD.h : 42
+[2018.02.23-13.06.52:451][238]LogWindows: LaunchFileInExternalEditor D:/Unreal/CodeProject/Source/CodeProject/CodeHUD.cpp 
+[2018.02.23-13.06.52:539][238]LogWindows: Launch application code for D:/Unreal/CodeProject/Source/CodeProject/CodeHUD.cpp : 42
+[2018.02.23-13.06.52:539][238]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.23-13.06.52:545][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:545][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:545][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:545][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:545][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:546][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:547][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:548][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:549][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:550][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:551][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:552][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:553][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:554][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:555][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:555][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:555][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:555][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:555][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:555][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:556][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:556][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:556][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:556][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:556][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:556][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:557][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:562][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:562][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:563][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:563][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:567][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:567][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:588][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:592][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:599][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:600][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:600][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:601][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:605][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.06.52:606][238]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.23-13.18.50:745][219]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.02.23-13.18.56:438][530]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.18.57:473][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CodeHUD_BP" FILE="../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset" SILENT=true
+[2018.02.23-13.18.57:518][583]LogSavePackage: Save=42.77ms
+[2018.02.23-13.18.57:518][583]LogSavePackage: Moving '../../../../../../Unreal/CodeProject/Saved/CodeHUD_BP2DB2564F41E5C0105D8B5789D1A6731B.tmp' to '../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset'
+[2018.02.23-13.18.57:520][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset
+[2018.02.23-13.19.08:153][751]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.19.08:888][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CodeHUD_BP" FILE="../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset" SILENT=true
+[2018.02.23-13.19.08:902][810]LogSavePackage: Save=11.94ms
+[2018.02.23-13.19.08:903][810]LogSavePackage: Moving '../../../../../../Unreal/CodeProject/Saved/CodeHUD_BP7448C1344EB4FB2876E2F984DC31BABA.tmp' to '../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset'
+[2018.02.23-13.19.08:905][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset
+[2018.02.23-13.19.20:104][550]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.23-13.19.20:109][550]Candidate modules for hot reload:
+[2018.02.23-13.19.20:109][550]  CodeProject
+[2018.02.23-13.19.20:109][550]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe CodeProject -ModuleWithSuffix CodeProject 2207 Win64 Development -editorrecompile -canskiplink "D:/Unreal/CodeProject/CodeProject.uproject" ]
+[2018.02.23-13.19.20:121][550]Warning: Starting HotReload took  0.0s.
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: New page: Compilation - Feb 23, 2018, 3:19:37 PM
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Creating makefile for hot reloading CodeProject (game project files are newer)
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Parsing headers for CodeProjectEditor
+[2018.02.23-13.19.37:380][420]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\CodeProject\CodeProject.uproject" "D:\Unreal\CodeProject\Intermediate\Build\Win64\CodeProjectEditor\Development\CodeProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Reflection code generated for CodeProjectEditor in 10.1949891 seconds
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: CodeProject.cpp
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: CodeHUD.gen.cpp
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: CodeHUD.cpp
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: CodeProject.init.gen.cpp
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: [5/6] Link UE4Editor-CodeProject-2207.dll
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: [6/6] Link UE4Editor-CodeProject-2207.lib
+[2018.02.23-13.19.37:380][420]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-2207.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-2207.exp
+[2018.02.23-13.19.37:380][420]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-2207.suppressed.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-2207.suppressed.exp
+[2018.02.23-13.19.37:380][420]CompilerResultsLog: Total build time: 16.92 seconds (Local executor: 1.52 seconds)
+[2018.02.23-13.19.37:380][420]LogMainFrame: MainFrame: Module compiling took 17.276 seconds
+[2018.02.23-13.19.37:435][420]LogClass: Could not find existing class CodeHUD in package /Script/CodeProject for HotReload, assuming new class
+[2018.02.23-13.19.37:435][420]LogClass: Function drawRandomWalker is new.
+[2018.02.23-13.19.37:441][420]LogHotReload: Re-instancing CodeHUD after hot-reload.
+[2018.02.23-13.19.37:759][420]LogContentBrowser: Native class hierarchy updated for 'CodeProject' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.23-13.19.37:761][420]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.23-13.19.38:084][420]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2366 classes and 525 folders.
+[2018.02.23-13.19.38:084][420]Display: HotReload took 18.0s.
+[2018.02.23-13.28.37:946][713]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.23-13.28.38:016][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2018.02.23-13.28.38:058][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/CodeHUD_BP] ([1] browsable assets)...
+[2018.02.23-13.28.38:058][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/CodeHUD_BP]
+[2018.02.23-13.28.38:058][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CodeHUD_BP" FILE="../../../../../../Unreal/CodeProject/Saved/Autosaves/Game/ThirdPersonBP/CodeHUD_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.23-13.28.38:066][713]LogSavePackage: Save=5.79ms
+[2018.02.23-13.28.38:066][713]LogSavePackage: Moving '../../../../../../Unreal/CodeProject/Saved/CodeHUD_BP_Auto1117B89E244878B0A178BEAB2D730F921.tmp' to '../../../../../../Unreal/CodeProject/Saved/Autosaves/Game/ThirdPersonBP/CodeHUD_BP_Auto1.uasset'
+[2018.02.23-13.28.38:067][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/CodeProject/Saved/Autosaves/Game/ThirdPersonBP/CodeHUD_BP_Auto1.uasset
+[2018.02.23-13.28.38:067][713]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.02.23-13.29.11:370][146]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.23-13.29.11:375][146]Candidate modules for hot reload:
+[2018.02.23-13.29.11:375][146]  CodeProject
+[2018.02.23-13.29.11:376][146]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe CodeProject -ModuleWithSuffix CodeProject 329 Win64 Development -editorrecompile -canskiplink "D:/Unreal/CodeProject/CodeProject.uproject" ]
+[2018.02.23-13.29.11:384][146]Warning: Starting HotReload took  0.0s.
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: New page: Compilation - Feb 23, 2018, 3:29:24 PM
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: Parsing headers for CodeProjectEditor
+[2018.02.23-13.29.24:186][502]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\CodeProject\CodeProject.uproject" "D:\Unreal\CodeProject\Intermediate\Build\Win64\CodeProjectEditor\Development\CodeProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: Reflection code generated for CodeProjectEditor in 10.2969992 seconds
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: CodeHUD.cpp
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: CodeHUD.gen.cpp
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: CodeProject.init.gen.cpp
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: [4/5] Link UE4Editor-CodeProject-329.dll
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: [5/5] Link UE4Editor-CodeProject-329.lib
+[2018.02.23-13.29.24:186][502]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-329.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-329.exp
+[2018.02.23-13.29.24:186][502]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-329.suppressed.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-329.suppressed.exp
+[2018.02.23-13.29.24:186][502]CompilerResultsLog: Total build time: 12.57 seconds (Local executor: 1.52 seconds)
+[2018.02.23-13.29.24:186][502]LogMainFrame: MainFrame: Module compiling took 12.815 seconds
+[2018.02.23-13.29.24:249][502]LogClass: Could not find existing class CodeHUD in package /Script/CodeProject for HotReload, assuming new class
+[2018.02.23-13.29.24:249][502]LogClass: Function drawRandomWalker is new.
+[2018.02.23-13.29.24:254][502]LogHotReload: Re-instancing CodeHUD after hot-reload.
+[2018.02.23-13.29.24:608][502]LogContentBrowser: Native class hierarchy updated for 'CodeProject' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.23-13.29.24:610][502]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.23-13.29.24:931][502]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2366 classes and 525 folders.
+[2018.02.23-13.29.24:931][502]Display: HotReload took 13.6s.
+[2018.02.23-13.29.37:931][952]LogSlate: Took 0.015438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.23-13.29.55:487][  8]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.31.25:633][693]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.23-13.31.25:639][693]Candidate modules for hot reload:
+[2018.02.23-13.31.25:639][693]  CodeProject
+[2018.02.23-13.31.25:639][693]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe CodeProject -ModuleWithSuffix CodeProject 712 Win64 Development -editorrecompile -canskiplink "D:/Unreal/CodeProject/CodeProject.uproject" ]
+[2018.02.23-13.31.25:647][693]Warning: Starting HotReload took  0.0s.
+[2018.02.23-13.31.38:600][ 47]CompilerResultsLog: New page: Compilation - Feb 23, 2018, 3:31:38 PM
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: Parsing headers for CodeProjectEditor
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\CodeProject\CodeProject.uproject" "D:\Unreal\CodeProject\Intermediate\Build\Win64\CodeProjectEditor\Development\CodeProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: Reflection code generated for CodeProjectEditor in 10.3569173 seconds
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: CodeHUD.gen.cpp
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: CodeProject.init.gen.cpp
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: CodeHUD.cpp
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: [4/5] Link UE4Editor-CodeProject-712.dll
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: [5/5] Link UE4Editor-CodeProject-712.lib
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-712.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-712.exp
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-712.suppressed.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-712.suppressed.exp
+[2018.02.23-13.31.38:601][ 47]CompilerResultsLog: Total build time: 12.69 seconds (Local executor: 1.52 seconds)
+[2018.02.23-13.31.38:601][ 47]LogMainFrame: MainFrame: Module compiling took 12.967 seconds
+[2018.02.23-13.31.38:678][ 47]LogClass: Could not find existing class CodeHUD in package /Script/CodeProject for HotReload, assuming new class
+[2018.02.23-13.31.38:678][ 47]LogClass: Function drawRandomWalker is new.
+[2018.02.23-13.31.38:683][ 47]LogHotReload: Re-instancing CodeHUD after hot-reload.
+[2018.02.23-13.31.39:034][ 47]LogContentBrowser: Native class hierarchy updated for 'CodeProject' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.23-13.31.39:037][ 47]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.23-13.31.39:351][ 47]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2366 classes and 525 folders.
+[2018.02.23-13.31.39:351][ 47]Display: HotReload took 13.7s.
+[2018.02.23-13.33.02:404][376]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.23-13.33.02:410][376]Candidate modules for hot reload:
+[2018.02.23-13.33.02:410][376]  CodeProject
+[2018.02.23-13.33.02:410][376]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe CodeProject -ModuleWithSuffix CodeProject 5365 Win64 Development -editorrecompile -canskiplink "D:/Unreal/CodeProject/CodeProject.uproject" ]
+[2018.02.23-13.33.02:418][376]Warning: Starting HotReload took  0.0s.
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: New page: Compilation - Feb 23, 2018, 3:33:15 PM
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: Parsing headers for CodeProjectEditor
+[2018.02.23-13.33.15:123][711]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\CodeProject\CodeProject.uproject" "D:\Unreal\CodeProject\Intermediate\Build\Win64\CodeProjectEditor\Development\CodeProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: Reflection code generated for CodeProjectEditor in 10.1847203 seconds
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: CodeProject.init.gen.cpp
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: CodeHUD.cpp
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: CodeHUD.gen.cpp
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: [4/5] Link UE4Editor-CodeProject-5365.dll
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: [5/5] Link UE4Editor-CodeProject-5365.lib
+[2018.02.23-13.33.15:123][711]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-5365.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-5365.exp
+[2018.02.23-13.33.15:123][711]CompilerResultsLog:    Creating library D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-5365.suppressed.lib and object D:\Unreal\CodeProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CodeProject-5365.suppressed.exp
+[2018.02.23-13.33.15:123][711]CompilerResultsLog: Total build time: 12.46 seconds (Local executor: 1.52 seconds)
+[2018.02.23-13.33.15:123][711]LogMainFrame: MainFrame: Module compiling took 12.719 seconds
+[2018.02.23-13.33.15:217][711]LogClass: Could not find existing class CodeHUD in package /Script/CodeProject for HotReload, assuming new class
+[2018.02.23-13.33.15:217][711]LogClass: Function drawRandomWalker is new.
+[2018.02.23-13.33.15:224][711]LogHotReload: Re-instancing CodeHUD after hot-reload.
+[2018.02.23-13.33.15:647][711]LogContentBrowser: Native class hierarchy updated for 'CodeProject' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.23-13.33.15:650][711]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.23-13.33.15:992][711]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2366 classes and 525 folders.
+[2018.02.23-13.33.15:992][711]Display: HotReload took 13.6s.
+[2018.02.23-13.33.37:972][155]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.33.51:012][585]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.33.52:022][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CodeHUD_BP" FILE="../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset" SILENT=true
+[2018.02.23-13.33.52:033][663]LogSavePackage: Save=8.54ms
+[2018.02.23-13.33.52:033][663]LogSavePackage: Moving '../../../../../../Unreal/CodeProject/Saved/CodeHUD_BPEC5CF83E43400A17D7E8E5B905BC177E.tmp' to '../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset'
+[2018.02.23-13.33.52:035][663]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset
+[2018.02.23-13.34.02:460][620]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.23-13.34.02:465][620]Candidate modules for hot reload:
+[2018.02.23-13.34.02:465][620]  CodeProject
+[2018.02.23-13.34.02:465][620]Launching UnrealBuildTool... [D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe CodeProject -ModuleWithSuffix CodeProject 4078 Win64 Development -editorrecompile -canskiplink "D:/Unreal/CodeProject/CodeProject.uproject" ]
+[2018.02.23-13.34.02:473][620]Warning: Starting HotReload took  0.0s.
+[2018.02.23-13.34.03:351][721]CompilerResultsLog: New page: Compilation - Feb 23, 2018, 3:34:03 PM
+[2018.02.23-13.34.03:352][721]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.23-13.34.03:352][721]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.23-13.34.03:352][721]CompilerResultsLog: Target is up to date
+[2018.02.23-13.34.03:352][721]CompilerResultsLog: Total build time: 0.63 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.02.23-13.34.03:352][721]LogMainFrame: MainFrame: Module compiling took 0.891 seconds
+[2018.02.23-13.34.03:667][721]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2366 classes and 525 folders.
+[2018.02.23-13.34.03:667][721]Display: HotReload took  1.2s.
+[2018.02.23-13.34.29:093][537]LogMetaData: Removing '/Game/ThirdPersonBP/CodeHUD_BP.CodeHUD_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/NewBlueprint.PackageMetaData'
+[2018.02.23-13.34.29:093][537]LogMetaData: Removing '/Game/ThirdPersonBP/CodeHUD_BP.SKEL_CodeHUD_BP_C' ref from Metadata '/Game/ThirdPersonBP/NewBlueprint.PackageMetaData'
+[2018.02.23-13.34.29:093][537]LogMetaData: Removing '/Game/ThirdPersonBP/CodeHUD_BP.CodeHUD_BP_C' ref from Metadata '/Game/ThirdPersonBP/NewBlueprint.PackageMetaData'
+[2018.02.23-13.34.29:094][537]LogMetaData: Removing '/Game/ThirdPersonBP/CodeHUD_BP.CodeHUD_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/NewBlueprint.PackageMetaData'
+[2018.02.23-13.34.29:094][537]LogMetaData: Removing '/Game/ThirdPersonBP/CodeHUD_BP.CodeHUD_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/NewBlueprint.PackageMetaData'
+[2018.02.23-13.34.29:094][537]LogMetaData: Removing '/Game/ThirdPersonBP/CodeHUD_BP.CodeHUD_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/NewBlueprint.PackageMetaData'
+[2018.02.23-13.34.29:118][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CodeHUD_BP" FILE="../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset" SILENT=true
+[2018.02.23-13.34.29:126][537]LogSavePackage: Save=7.20ms
+[2018.02.23-13.34.29:126][537]LogSavePackage: Moving '../../../../../../Unreal/CodeProject/Saved/CodeHUD_BP082CFD8648CFEEBEF87C8C98717AF292.tmp' to '../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset'
+[2018.02.23-13.34.29:128][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset
+[2018.02.23-13.35.17:852][993]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.35.27:141][ 27]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [ACodeHUD::drawRandomWalker] - File [d:\unreal\codeproject\source\codeproject\codehud.cpp], Line [7], Column [0]
+[2018.02.23-13.35.47:265][181]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.47:598][182]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.47:932][183]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.48:265][184]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.48:599][185]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.48:931][186]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.49:266][187]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.49:601][188]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.51:698][193]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.23-13.35.56:641][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CodeHUD_BP" FILE="../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset" SILENT=true
+[2018.02.23-13.35.56:652][573]LogSavePackage: Save=9.36ms
+[2018.02.23-13.35.56:652][573]LogSavePackage: Moving '../../../../../../Unreal/CodeProject/Saved/CodeHUD_BP16AA80F144DD328941F0DBA95332138D.tmp' to '../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset'
+[2018.02.23-13.35.56:654][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal/CodeProject/Content/ThirdPersonBP/CodeHUD_BP.uasset
+[2018.02.23-13.35.57:372][630]BlueprintLog: New page: Compile CodeHUD_BP
+[2018.02.23-13.36.01:749][  9]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.23-13.36.02:013][ 10]Cmd: QUIT_EDITOR
+[2018.02.23-13.36.02:042][ 10]LogExit: Preparing to exit.
+[2018.02.23-13.36.02:803][ 10]LogDirectoryWatcher: A directory notification for 'D:/Unreal/CodeProject/Content/' was aborted.
+[2018.02.23-13.36.02:847][ 10]LogExit: Editor shut down
+[2018.02.23-13.36.02:852][ 10]LogExit: Transaction tracking system shut down
+[2018.02.23-13.36.03:043][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.23-13.36.03:043][ 10]LogDirectoryWatcher: A directory notification for '../../../../../../Unreal/CodeProject/Content/' was aborted.
+[2018.02.23-13.36.03:043][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.23-13.36.03:043][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.23-13.36.03:043][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.23-13.36.03:043][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.23-13.36.03:044][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.23-13.36.03:118][ 10]LogExit: Object subsystem successfully closed.
+[2018.02.23-13.36.03:133][ 10]LogD3D11RHI: Shutdown
+[2018.02.23-13.36.03:133][ 10]LogD3D11RHI: CleanupD3DDevice
+[2018.02.23-13.36.03:136][ 10]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.23-13.36.03:148][ 10]LogModuleManager: Shutting down and abandoning module CodeProject (556)
+[2018.02.23-13.36.03:148][ 10]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.23-13.36.03:148][ 10]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.23-13.36.03:148][ 10]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.23-13.36.03:148][ 10]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.23-13.36.03:149][ 10]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.23-13.36.03:150][ 10]LogDirectoryWatcher: A directory notification for 'D:/Unreal/CodeProject/Content/Collections/' was aborted.
+[2018.02.23-13.36.03:150][ 10]LogDirectoryWatcher: A directory notification for 'D:/Unreal/CodeProject/Content/Developers/Administrator/Collections/' was aborted.
+[2018.02.23-13.36.03:150][ 10]LogDirectoryWatcher: A directory notification for 'D:/Unreal/CodeProject/Saved/Collections/' was aborted.
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.23-13.36.03:150][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.23-13.36.03:151][ 10]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.23-13.36.03:175][ 10]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.23-13.36.03:175][ 10]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.23-13.36.03:175][ 10]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.23-13.36.03:175][ 10]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.23-13.36.03:176][ 10]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.23-13.36.03:450][ 10]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.23-13.36.03:451][ 10]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.23-13.36.03:517][ 10]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.23-13.36.03:524][ 10]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.23-13.36.03:525][ 10]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.23-13.36.03:525][ 10]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.23-13.36.03:525][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.23-13.36.03:526][ 10]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.23-13.36.03:621][ 10]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.23-13.36.03:622][ 10]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.23-13.36.03:623][ 10]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.23-13.36.03:623][ 10]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.23-13.36.03:644][ 10]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.23-13.36.03:645][ 10]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.23-13.36.03:746][ 10]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.23-13.36.03:847][ 10]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.23-13.36.03:847][ 10]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.23-13.36.03:847][ 10]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.23-13.36.03:847][ 10]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.23-13.36.03:847][ 10]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.23-13.36.03:847][ 10]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.23-13.36.03:848][ 10]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.23-13.36.03:848][ 10]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.23-13.36.03:848][ 10]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.23-13.36.03:848][ 10]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.23-13.36.03:850][ 10]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.23-13.36.03:850][ 10]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.23-13.36.03:850][ 10]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.23-13.36.03:850][ 10]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.23-13.36.03:850][ 10]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.23-13.36.03:850][ 10]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.23-13.36.03:856][ 10]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.23-13.36.03:857][ 10]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.23-13.36.03:857][ 10]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.23-13.36.03:857][ 10]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.23-13.36.03:857][ 10]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.23-13.36.03:858][ 10]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.23-13.36.03:860][ 10]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.23-13.36.03:861][ 10]LogDerivedDataCache: Shutdown
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.23-13.36.03:861][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.23-13.36.03:862][ 10]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.23-13.36.03:862][ 10]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.23-13.36.03:862][ 10]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47BAD4CE-4D14-5812-B92F-17A5B86D52F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=5c5cf8704ea4789ebc621baa54e23248%7C9199c58080e3449ba1957d1b52e6e9dc%7C5dbb9830-6d89-4bf8-8510-54d1ef32c001&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.23-13.36.03:863][ 10]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.23-13.36.03:864][ 10]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.23-13.36.03:864][ 10]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.23-13.36.03:864][ 10]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.23-13.36.03:864][ 10]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.23-13.36.03:865][ 10]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.23-13.36.03:865][ 10]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.23-13.36.03:865][ 10]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.23-13.36.03:866][ 10]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.23-13.36.03:869][ 10]LogExit: Exiting.
+[2018.02.23-13.36.03:876][ 10]Log file closed, 02/23/18 14:36:03

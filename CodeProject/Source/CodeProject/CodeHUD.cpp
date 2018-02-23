@@ -3,5 +3,9 @@
 #include "CodeHUD.h"
 
 
+void ACodeHUD::drawRandomWalker()
+{
 
+
+}
 

@@ -1,52 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-	<ItemGroup>
-		<None Include="..\..\CodeProject.uproject" />
-		<Filter Include="Source">
-			<UniqueIdentifier>{57A7E72B-4F2E-4875-8E5E-B734CB1FF648}</UniqueIdentifier>
-		</Filter>
-		<None Include="..\..\Source\CodeProject.Target.cs">
-			<Filter>Source</Filter>
-		</None >
-		<None Include="..\..\Source\CodeProjectEditor.Target.cs">
-			<Filter>Source</Filter>
-		</None >
-		<Filter Include="Config">
-			<UniqueIdentifier>{05F62E6E-AC9E-4713-9098-4A2A00EA1632}</UniqueIdentifier>
-		</Filter>
-		<None Include="..\..\Config\DefaultEditor.ini">
-			<Filter>Config</Filter>
-		</None >
-		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
-			<Filter>Config</Filter>
-		</None >
-		<None Include="..\..\Config\DefaultEngine.ini">
-			<Filter>Config</Filter>
-		</None >
-		<None Include="..\..\Config\DefaultGame.ini">
-			<Filter>Config</Filter>
-		</None >
-		<None Include="..\..\Config\DefaultInput.ini">
-			<Filter>Config</Filter>
-		</None >
-		<Filter Include="Source\CodeProject">
-			<UniqueIdentifier>{D9277B5E-27BF-429F-9D7E-7227319B59D0}</UniqueIdentifier>
-		</Filter>
-		<ClCompile Include="..\..\Source\CodeProject\CodeHUD.cpp">
-			<Filter>Source\CodeProject</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\CodeProject\CodeHUD.h">
-			<Filter>Source\CodeProject</Filter>
-		</ClInclude >
-		<None Include="..\..\Source\CodeProject\CodeProject.Build.cs">
-			<Filter>Source\CodeProject</Filter>
-		</None >
-		<ClCompile Include="..\..\Source\CodeProject\CodeProject.cpp">
-			<Filter>Source\CodeProject</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\CodeProject\CodeProject.h">
-			<Filter>Source\CodeProject</Filter>
-		</ClInclude >
-	</ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\CodeProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{57A7E72B-4F2E-4875-8E5E-B734CB1FF648}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CodeProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CodeProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{05F62E6E-AC9E-4713-9098-4A2A00EA1632}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CodeProject">
+      <UniqueIdentifier>{D9277B5E-27BF-429F-9D7E-7227319B59D0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CodeProject\CodeHUD.cpp">
+      <Filter>Source\CodeProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodeProject\CodeHUD.h">
+      <Filter>Source\CodeProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CodeProject\CodeProject.Build.cs">
+      <Filter>Source\CodeProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CodeProject\CodeProject.cpp">
+      <Filter>Source\CodeProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodeProject\CodeProject.h">
+      <Filter>Source\CodeProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CodeProject\defines.h">
+      <Filter>Source\CodeProject</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

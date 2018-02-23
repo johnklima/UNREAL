@@ -13,9 +13,29 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CODEPROJECT_CodeHUD_generated_h
 
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_RPC_WRAPPERS
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_INCLASS_NO_PURE_DECLS \
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execdrawRandomWalker) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->drawRandomWalker(); \
+		P_NATIVE_END; \
+	}
+
+
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execdrawRandomWalker) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->drawRandomWalker(); \
+		P_NATIVE_END; \
+	}
+
+
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACodeHUD(); \
 	friend CODEPROJECT_API class UClass* Z_Construct_UClass_ACodeHUD(); \
@@ -25,7 +45,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_INCLASS \
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_INCLASS \
 private: \
 	static void StaticRegisterNativesACodeHUD(); \
 	friend CODEPROJECT_API class UClass* Z_Construct_UClass_ACodeHUD(); \
@@ -35,7 +55,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_STANDARD_CONSTRUCTORS \
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACodeHUD(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ACodeHUD) \
@@ -48,7 +68,7 @@ private: \
 public:
 
 
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_ENHANCED_CONSTRUCTORS \
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACodeHUD(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -61,26 +81,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ACodeHUD); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ACodeHUD)
 
 
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_PRIVATE_PROPERTY_OFFSET
-#define CodeProject_Source_CodeProject_CodeHUD_h_12_PROLOG
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_GENERATED_BODY_LEGACY \
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_PRIVATE_PROPERTY_OFFSET
+#define CodeProject_Source_CodeProject_CodeHUD_h_17_PROLOG
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_PRIVATE_PROPERTY_OFFSET \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_RPC_WRAPPERS \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_INCLASS \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_STANDARD_CONSTRUCTORS \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_PRIVATE_PROPERTY_OFFSET \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_RPC_WRAPPERS \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_INCLASS \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define CodeProject_Source_CodeProject_CodeHUD_h_15_GENERATED_BODY \
+#define CodeProject_Source_CodeProject_CodeHUD_h_23_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_PRIVATE_PROPERTY_OFFSET \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_INCLASS_NO_PURE_DECLS \
-	CodeProject_Source_CodeProject_CodeHUD_h_15_ENHANCED_CONSTRUCTORS \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_PRIVATE_PROPERTY_OFFSET \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_INCLASS_NO_PURE_DECLS \
+	CodeProject_Source_CodeProject_CodeHUD_h_23_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
