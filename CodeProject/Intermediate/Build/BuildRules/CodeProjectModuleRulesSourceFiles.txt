@@ -1,0 +1,3 @@
+D:\Unreal\CodeProject\Source\CodeProject\CodeProject.Build.cs
+D:\Unreal\CodeProject\Source\CodeProject.Target.cs
+D:\Unreal\CodeProject\Source\CodeProjectEditor.Target.cs
