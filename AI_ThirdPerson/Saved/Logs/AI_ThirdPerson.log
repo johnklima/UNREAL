@@ -1,4 +1,4 @@
-﻿Log file open, 02/22/18 15:06:31
+﻿Log file open, 02/25/18 16:28:42
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: AI_ThirdPerson
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1624270952) SRandInit(-1624270952).
+LogInit: Display: RandInit(1758477475) SRandInit(1758477475).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.206023
+LogStats: Stats thread started at 0.206038
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -196,635 +196,554 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.02.22-14.06.33:317][  0]LogInit: Selected Device Profile: [Windows]
-[2018.02.22-14.06.33:317][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.02.22-14.06.33:325][  0]LogInit: Computer: MININT-BGCOGT6
-[2018.02.22-14.06.33:325][  0]LogInit: User: Administrator
-[2018.02.22-14.06.33:325][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.02.22-14.06.33:325][  0]LogInit: High frequency timer resolution =2.533208 MHz
-[2018.02.22-14.06.33:326][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2018.02.22-14.06.33:326][  0]LogMemory: Platform Memory Stats for Windows
-[2018.02.22-14.06.33:326][  0]LogMemory: Process Physical Memory: 273.43 MB used, 273.43 MB peak
-[2018.02.22-14.06.33:326][  0]LogMemory: Process Virtual Memory: 272.01 MB used, 272.01 MB peak
-[2018.02.22-14.06.33:326][  0]LogMemory: Physical Memory: 5047.63 MB used,  11285.47 MB free, 16333.10 MB total
-[2018.02.22-14.06.33:326][  0]LogMemory: Virtual Memory: 680.27 MB used,  11285.47 MB free, 134217728.00 MB total
-[2018.02.22-14.06.33:525][  0]LogInit: Using OS detected language (en-US).
-[2018.02.22-14.06.33:525][  0]LogInit: Using OS detected locale (en-US).
-[2018.02.22-14.06.33:528][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.02.22-14.06.33:953][  0]LogInit: Setting process to per monitor DPI aware
-[2018.02.22-14.06.34:232][  0]LogD3D11RHI: D3D11 adapters:
-[2018.02.22-14.06.34:278][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
-[2018.02.22-14.06.34:278][  0]LogD3D11RHI:       4061/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.02.22-14.06.34:281][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.02.22-14.06.34:281][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.02.22-14.06.34:281][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.02.22-14.06.34:287][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.02.22-14.06.34:287][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
-[2018.02.22-14.06.34:287][  0]LogWindows: EnumDisplayDevices:
-[2018.02.22-14.06.34:288][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
-[2018.02.22-14.06.34:288][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
-[2018.02.22-14.06.34:288][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
-[2018.02.22-14.06.34:288][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
-[2018.02.22-14.06.34:288][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.02.22-14.06.34:288][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
-[2018.02.22-14.06.34:289][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.02.22-14.06.34:289][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.02.22-14.06.34:289][  0]LogRHI: Texture pool is 2843 MB (70% of 4061 MB)
-[2018.02.22-14.06.34:321][  0]LogD3D11RHI: Async texture creation enabled
-[2018.02.22-14.06.34:333][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.02.22-14.06.34:376][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/UNREAL/AI_ThirdPerson/Intermediate/Shaders/WorkingDirectory/13648/).
-[2018.02.22-14.06.34:376][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/4A9DF4B04339E5CE1D9ABD96BBF716EA/'.
-[2018.02.22-14.06.34:376][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.02.22-14.06.35:371][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.02.22-14.06.35:430][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.02.22-14.06.35:488][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.02.22-14.06.35:551][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.02.22-14.06.35:611][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.02.22-14.06.35:666][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.02.22-14.06.35:722][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.02.22-14.06.35:778][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.02.22-14.06.35:829][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.02.22-14.06.35:883][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.02.22-14.06.35:937][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.02.22-14.06.35:998][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.02.22-14.06.36:053][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.02.22-14.06.36:107][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.02.22-14.06.36:217][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.02.22-14.06.36:217][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.02.22-14.06.36:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.02.22-14.06.36:338][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.02.22-14.06.36:438][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.02.22-14.06.36:466][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.02.22-14.06.36:520][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.02.22-14.06.36:574][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.02.22-14.06.36:629][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.02.22-14.06.36:692][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.02.22-14.06.36:692][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.02.22-14.06.37:219][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.02.22-14.06.37:295][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.02.22-14.06.37:295][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.02.22-14.06.37:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNREAL/AI_ThirdPerson/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.02.22-14.06.37:295][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.02.22-14.06.37:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNREAL/AI_ThirdPerson/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.02.22-14.06.37:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.02.22-14.06.37:313][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.02.22-14.06.37:325][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.02.22-14.06.37:336][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.02.22-14.06.37:336][  0]LogSlate: Using Freetype 2.6.0
-[2018.02.22-14.06.37:337][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.02.22-14.06.37:337][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.02.22-14.06.37:764][  0]LogInit: Selected Device Profile: [Windows]
-[2018.02.22-14.06.38:131][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.02.22-14.06.38:176][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.02.22-14.06.38:176][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.02.22-14.06.38:176][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.02.22-14.06.38:176][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.02.22-14.06.38:176][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.02.22-14.06.38:202][  0]LogNetVersion: AI_ThirdPerson , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2507867504)
-[2018.02.22-14.06.38:376][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
-[2018.02.22-14.06.38:927][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.085177 seconds
-[2018.02.22-14.06.38:933][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.02.22-14.06.38:933][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
-[2018.02.22-14.06.38:933][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.02.22-14.06.38:996][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.02.22-14.06.42:021][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.02.22-14.06.42:064][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.02.22-14.06.42:855][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.02.22-14.06.43:386][  0]SourceControl: Source control is disabled
-[2018.02.22-14.06.43:386][  0]SourceControl: Source control is disabled
-[2018.02.22-14.06.43:451][  0]SourceControl: Source control is disabled
-[2018.02.22-14.06.43:516][  0]SourceControl: Source control is disabled
-[2018.02.22-14.06.44:432][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.02.22-14.06.44:760][  0]LogOcInput: OculusInput pre-init called
-[2018.02.22-14.06.45:089][  0]LogEngine: Initializing Engine...
-[2018.02.22-14.06.45:092][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.02.22-14.06.45:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.02.22-14.06.45:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.02.22-14.06.45:471][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.02.22-14.06.45:478][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.02.22-14.06.45:835][  0]LogInit: FAudioDevice initialized.
-[2018.02.22-14.06.45:931][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.02.22-14.06.45:944][  0]LogInit: Texture streaming: Enabled
-[2018.02.22-14.06.46:055][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.02.22-14.06.46:205][  0]LogInit: Transaction tracking system initialized
-[2018.02.22-14.06.46:551][  0]BlueprintLog: New page: Editor Load
-[2018.02.22-14.06.47:541][  0]LocalizationService: Localization service is disabled
-[2018.02.22-14.06.48:362][  0]LogConsoleResponse: Display: 
-[2018.02.22-14.06.48:539][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.02.22-14.06.48:539][  0]LogCook: Display: Mobile HDR setting 1
-[2018.02.22-14.06.48:539][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.02.22-14.06.48:565][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Content/' took 0.01s
-[2018.02.22-14.06.49:904][  0]SourceControl: Source control is disabled
-[2018.02.22-14.06.49:904][  0]Cmd: MAP LOAD FILE="D:/UNREAL/AI_ThirdPerson/Content/Joachim/MAP/WitchHunt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.02.22-14.06.49:904][  0]LightingResults: New page: Lighting Build
-[2018.02.22-14.06.49:952][  0]MapCheck: New page: Map Check
-[2018.02.22-14.06.49:952][  0]LightingResults: New page: Lighting Build
-[2018.02.22-14.06.50:149][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EdGraph_0.K2Node_FunctionEntry_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.50:374][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
-[2018.02.22-14.06.50:375][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading D:/UNREAL/AI_ThirdPerson/Content/Joachim/MAP/WitchHunt.umap.
-[2018.02.22-14.06.50:375][  0]LoadErrors: Error: /Game/Joachim/MAP/WitchHunt : Can't find file for asset. /Game/Joachim/MAP/WitchHunt_BuiltData
-[2018.02.22-14.06.50:386][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
-[2018.02.22-14.06.50:386][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading D:/UNREAL/AI_ThirdPerson/Content/Joachim/MAP/WitchHunt.umap.
-[2018.02.22-14.06.50:386][  0]LoadErrors: Error: /Game/Joachim/MAP/WitchHunt : Can't find file for asset. /Game/Joachim/MAP/WitchHunt_BuiltData
-[2018.02.22-14.06.50:396][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
-[2018.02.22-14.06.50:396][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading NULL.
-[2018.02.22-14.06.50:396][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
-[2018.02.22-14.06.50:396][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading NULL.
-[2018.02.22-14.06.50:454][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
-[2018.02.22-14.06.50:454][  0]LoadErrors: Failed to load /Game/Joachim/MAP/WitchHunt_BuiltData.WitchHunt_BuiltData Referenced by PersistentLevel
-[2018.02.22-14.06.50:454][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading NULL.
-[2018.02.22-14.06.50:454][  0]LoadErrors: Failed to load /Game/Joachim/MAP/WitchHunt_BuiltData.WitchHunt_BuiltData Referenced by PersistentLevel
-[2018.02.22-14.06.51:692][  0]LogTexture: Display: Building textures: Kachujin_Mask (AutoDXT, 2048X2048)
-[2018.02.22-14.06.51:692][  0]LogTexture: Display: Building textures: Kachujin_normal (BC5, 2048X2048)
-[2018.02.22-14.06.51:692][  0]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
-[2018.02.22-14.06.55:015][  0]LogMaterial: Missing cached shader map for material Kachujin_Mat, compiling. 
-[2018.02.22-14.06.55:227][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.EdGraphNode_Comment_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:227][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:227][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_39' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:227][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:228][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_108971' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:228][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_112027' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:228][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_20844' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:228][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_21305' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:228][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_3716' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4184' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4223' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4678' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_61214' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_61534' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_65164' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_7346' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8160' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8427' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8733' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_87421' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8781' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_153' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_155' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_DynamicCast_179' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:UserConstructionScript.K2Node_FunctionEntry_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_203' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:229][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_27' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAction_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_1058' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_1657' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_50' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_86' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputKey_17975' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_1700' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_174' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_190' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_91' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1333' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1684' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1685' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_660' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:230][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_803' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:231][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_850' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
-[2018.02.22-14.06.55:238][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Walk.Kachujin_G_Rosales_Walk
-[2018.02.22-14.06.55:240][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Walk.Kachujin_G_Rosales_Walk) using current/default (AnimCompress_RemoveLinearKeys_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.02.22-14.06.55:298][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Run.Kachujin_G_Rosales_Run
-[2018.02.22-14.06.55:298][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Run.Kachujin_G_Rosales_Run) using current/default (AnimCompress_RemoveLinearKeys_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.02.22-14.06.55:340][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_idle.Kachujin_G_Rosales_idle
-[2018.02.22-14.06.55:340][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_idle.Kachujin_G_Rosales_idle) using current/default (AnimCompress_RemoveLinearKeys_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.02.22-14.06.55:523][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Sword_Swing.Kachujin_G_Rosales_Sword_Swing
-[2018.02.22-14.06.55:523][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Sword_Swing.Kachujin_G_Rosales_Sword_Swing) using current/default (AnimCompress_RemoveLinearKeys_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.02.22-14.06.55:604][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Running_Jump.Kachujin_G_Rosales_Running_Jump
-[2018.02.22-14.06.55:604][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_Running_Jump.Kachujin_G_Rosales_Running_Jump) using current/default (AnimCompress_RemoveLinearKeys_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.02.22-14.06.55:655][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_jump.Kachujin_G_Rosales_jump
-[2018.02.22-14.06.55:656][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MixamoAnimPack/Mixamo_Kachujin/Anims/Kachujin_G_Rosales_jump.Kachujin_G_Rosales_jump) using current/default (AnimCompress_RemoveLinearKeys_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.02.22-14.06.56:000][  0]LogMaterial: Missing cached shader map for material Asphalt2, compiling. 
-[2018.02.22-14.06.56:066][  0]LogMaterial: Missing cached shader map for material Asphalt, compiling. 
-[2018.02.22-14.06.56:123][  0]LogMaterial: Missing cached shader map for material StreetLamp, compiling. 
-[2018.02.22-14.06.56:165][  0]LogMaterial: Missing cached shader map for material ScreenOff, compiling. 
-[2018.02.22-14.06.56:204][  0]LogMaterial: Missing cached shader map for material Camera3Feed_Mat, compiling. 
-[2018.02.22-14.06.56:258][  0]LogMaterial: Missing cached shader map for material Camera2Feed_Mat, compiling. 
-[2018.02.22-14.06.56:325][  0]LogMaterial: Missing cached shader map for material Camera1Feed_Mat, compiling. 
-[2018.02.22-14.06.56:444][  0]LogMaterial: Missing cached shader map for material RedButtonMTL, compiling. 
-[2018.02.22-14.06.56:487][  0]LogMaterial: Missing cached shader map for material GreenButtonMTL, compiling. 
-[2018.02.22-14.06.56:718][  0]LogAIModule: Creating AISystem for world WitchHunt
-[2018.02.22-14.06.56:775][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.02.22-14.06.56:799][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.02.22-14.06.56:908][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.616ms to complete.
-[2018.02.22-14.06.56:908][  0]LogFileHelpers: Loading map 'WitchHunt' took 7.004
-[2018.02.22-14.06.56:985][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.02.22-14.06.57:132][  0]LogCollectionManager: Loaded 0 collections in 0.002412 seconds
-[2018.02.22-14.06.57:264][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Saved/Collections/' took 0.01s
-[2018.02.22-14.06.57:264][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Content/Developers/Administrator/Collections/' took 0.01s
-[2018.02.22-14.06.57:264][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Content/Collections/' took 0.01s
-[2018.02.22-14.06.57:264][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.02.22-14.06.57:280][  0]LogContentBrowser: Native class hierarchy populated in 0.0163 seconds. Added 2363 classes and 519 folders.
-[2018.02.22-14.06.57:417][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.02.22-14.06.57:491][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.02.22-14.06.57:577][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.02.22-14.06.57:728][  0]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.02.22-14.06.57:731][  0]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.02.22-14.06.57:739][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.02.22-14.06.57:915][  0]LogRenderer: Reallocating scene render targets to support 512x512 Format 10 NumSamples 1 (Frame:1).
-[2018.02.22-14.06.58:100][  0]LogRenderer: Reallocating scene render targets to support 868x512 Format 10 NumSamples 1 (Frame:1).
-[2018.02.22-14.06.58:372][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.02.22-14.06.58:372][  0]LogLoad: (Engine Initialization) Total time: 27.46 seconds
-[2018.02.22-14.06.58:372][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.02.22-14.06.58:372][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.02.22-14.06.58:415][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.02.22-14.06.58:506][  0]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.02.22-14.06.58:592][  1]LogAssetRegistry: Asset discovery search completed in 20.2378 seconds
-[2018.02.22-14.06.58:596][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.02.22-14.06.58:596][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
-[2018.02.22-14.07.22:224][267]MapCheck: New page: Map Check
-[2018.02.22-14.07.22:238][267]Cmd: MAP REBUILD ALLVISIBLE
-[2018.02.22-14.07.22:239][267]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2018.02.22-14.07.23:469][267]LightingResults: New page: Lighting Build - Feb 22, 2018, 4:07:23 PM
-[2018.02.22-14.07.23:519][267]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2018.02.22-14.07.23:584][267]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2018.02.22-14.07.23:617][267]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2018.02.22-14.07.24:652][267]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2018.02.22-14.07.24:652][267]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13648
-[2018.02.22-14.07.26:878][267]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2018.02.22-14.07.26:878][267]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2018.02.22-14.07.26:878][267]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2018.02.22-14.07.26:878][267]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2018.02.22-14.07.26:878][267]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2018.02.22-14.07.27:124][267]LogEditorBuildUtils: Build time 0:04
-[2018.02.22-14.07.27:166][268]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
-[2018.02.22-14.07.27:174][268]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
-[2018.02.22-14.07.27:197][269]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Asphalt, compiling. 
-[2018.02.22-14.07.27:207][269]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Asphalt, compiling. 
-[2018.02.22-14.07.27:366][270]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Asphalt2, compiling. 
-[2018.02.22-14.07.27:378][270]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Asphalt2, compiling. 
-[2018.02.22-14.07.35:173][319]Job is a success!
-[2018.02.22-14.07.35:524][320]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.02.22-14.07.35:562][320]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
-[2018.02.22-14.07.35:562][320]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
-[2018.02.22-14.07.35:563][320]LogVolumetricLightmapImport:      BrickData 155x5x5 = 0.1Mb
-[2018.02.22-14.07.35:563][320]LogVolumetricLightmapImport:      Bricks at Level
-[2018.02.22-14.07.35:563][320]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
-[2018.02.22-14.07.35:563][320]LogVolumetricLightmapImport:          1: 12.9% covering 6.3% of volume
-[2018.02.22-14.07.35:563][320]LogVolumetricLightmapImport:          2: 83.9% covering 0.6% of volume
-[2018.02.22-14.07.36:466][320]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
-[2018.02.22-14.07.36:466][320]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
-[2018.02.22-14.07.36:466][320]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
-[2018.02.22-14.07.36:466][320]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
-[2018.02.22-14.07.36:466][320]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
-[2018.02.22-14.07.36:466][320]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
-[2018.02.22-14.07.36:467][320]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
-[2018.02.22-14.07.36:467][320]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
-[2018.02.22-14.07.36:467][320]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
-[2018.02.22-14.07.36:467][320]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
-[2018.02.22-14.07.36:467][320]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
-[2018.02.22-14.07.36:467][320]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
-[2018.02.22-14.07.36:666][320]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 32X32)
-[2018.02.22-14.07.36:666][320]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X256)
-[2018.02.22-14.07.36:772][320]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
-[2018.02.22-14.07.36:816][320]Lightmass on MININT-BGCOGT6: 7.40 sec total, 147 ms importing, 22 ms setup, 1.20 sec photons, 5.95 sec processing, 0 ms extra exporting [1416/1416 mappings]. Threads: 41.5 sec total, 12.3 sec processing.
-[2018.02.22-14.07.36:857][320]LogStaticLightingSystem: Illumination: 13.0 sec (701 ms encoding lightmaps, 303 ms encoding shadowmaps)
-[2018.02.22-14.07.36:857][320]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 8 textures
-[2018.02.22-14.07.36:857][320]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 3 textures
-[2018.02.22-14.07.37:881][320]DumpUnbuiltLightIteractions
-[2018.02.22-14.07.37:881][320]Lights with unbuilt interactions: 0
-[2018.02.22-14.07.37:881][320]
-[2018.02.22-14.07.37:881][320]Primitives with unbuilt interactions: 0
-[2018.02.22-14.07.37:905][321]Cmd: MAP CHECK NOTIFYRESULTS
-[2018.02.22-14.07.37:906][321]MapCheck: New page: WitchHunt - Feb 22, 2018, 4:07:37 PM
-[2018.02.22-14.07.37:988][321]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.355ms to complete.
-[2018.02.22-14.08.22:313][ 74]LogTemp: Repeating last play command: Selected Viewport
-[2018.02.22-14.08.22:359][ 74]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
-[2018.02.22-14.08.22:359][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.02.22-14.08.22:359][ 74]PIE: New page: PIE session: WitchHunt (Feb 22, 2018, 4:08:22 PM)
-[2018.02.22-14.08.22:359][ 74]LogPlayLevel: Creating play world package: /Game/Joachim/MAP/UEDPIE_0_WitchHunt
-[2018.02.22-14.08.22:399][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040026s)
-[2018.02.22-14.08.22:400][ 74]LogAIModule: Creating AISystem for world WitchHunt
-[2018.02.22-14.08.22:400][ 74]LogPlayLevel: PIE: World Init took: (0.000680s)
-[2018.02.22-14.08.22:400][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Joachim/MAP/WitchHunt.WitchHunt to /Game/Joachim/MAP/UEDPIE_0_WitchHunt.WitchHunt (0.041063s)
-[2018.02.22-14.08.22:413][ 74]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.02.22-14.08.22:424][ 74]LogInit: FAudioDevice initialized.
-[2018.02.22-14.08.22:472][ 74]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2018.02.22-14.08.22:478][ 74]LogWorld: Bringing World /Game/Joachim/MAP/UEDPIE_0_WitchHunt.WitchHunt up for play (max tick rate 60) at 2018.02.22-15.08.22
-[2018.02.22-14.08.22:479][ 74]LogWorld: Bringing up level for play took: 0.005437
-[2018.02.22-14.08.22:529][ 74]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
-[2018.02.22-14.08.22:537][ 74]LogBlueprintUserMessages: [AI_Controller_C_0] The witch is patrolling the area...
-[2018.02.22-14.08.22:537][ 74]PIE: Play in editor start time for /Game/Joachim/MAP/UEDPIE_0_WitchHunt 0.508
-[2018.02.22-14.08.22:537][ 74]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
-[2018.02.22-14.08.31:953][451]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.33:513][514]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.34:537][555]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.35:042][575]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.38:617][717]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.39:117][737]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.39:641][758]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.08.47:172][ 93]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 1
-[2018.02.22-14.08.47:416][104]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 2
-[2018.02.22-14.09.06:137][902]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 3
-[2018.02.22-14.09.17:764][373]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 0
-[2018.02.22-14.09.27:749][789]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.28:263][810]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.28:771][831]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.29:277][852]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.29:787][872]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.32:864][995]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.33:375][ 15]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.33:893][ 36]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.36:471][139]LogBlueprintUserMessages: [AI_Bot] Player spotted!
-[2018.02.22-14.09.37:236][169]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] Heading to waypoint 1
-[2018.02.22-14.09.37:486][179]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] Heading to waypoint 2
-[2018.02.22-14.09.39:724][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
-[2018.02.22-14.09.39:800][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
-[2018.02.22-14.09.45:786][399]Cmd: QUIT_EDITOR
-[2018.02.22-14.09.46:564][399]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.02.22-14.09.46:573][399]LogExit: Preparing to exit.
-[2018.02.22-14.09.47:210][399]LogExit: Editor shut down
-[2018.02.22-14.09.47:215][399]LogExit: Transaction tracking system shut down
-[2018.02.22-14.09.47:404][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.02.22-14.09.47:405][399]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Content/' was aborted.
-[2018.02.22-14.09.47:405][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2018.02.22-14.09.47:405][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.02.22-14.09.47:405][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.02.22-14.09.47:405][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.02.22-14.09.47:405][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.02.22-14.09.47:463][399]LogExit: Object subsystem successfully closed.
-[2018.02.22-14.09.47:491][399]LogD3D11RHI: Shutdown
-[2018.02.22-14.09.47:491][399]LogD3D11RHI: CleanupD3DDevice
-[2018.02.22-14.09.47:494][399]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.02.22-14.09.47:509][399]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
-[2018.02.22-14.09.47:509][399]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
-[2018.02.22-14.09.47:509][399]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
-[2018.02.22-14.09.47:509][399]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
-[2018.02.22-14.09.47:509][399]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
-[2018.02.22-14.09.47:509][399]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
-[2018.02.22-14.09.47:509][399]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
-[2018.02.22-14.09.47:510][399]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Content/Collections/' was aborted.
-[2018.02.22-14.09.47:510][399]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Content/Developers/Administrator/Collections/' was aborted.
-[2018.02.22-14.09.47:510][399]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Saved/Collections/' was aborted.
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module BspMode (520)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
-[2018.02.22-14.09.47:510][399]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module SessionServices (478)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
-[2018.02.22-14.09.47:511][399]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module MergeActors (446)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module SizeMap (444)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module TreeMap (442)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module XmlParser (428)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module Blutility (426)
-[2018.02.22-14.09.48:015][399]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
-[2018.02.22-14.09.48:016][399]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module AutomationController (406)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module Layers (402)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module Persona (394)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
-[2018.02.22-14.09.48:082][399]LogModuleManager: Shutting down and abandoning module Kismet (388)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module Toolbox (384)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module OutputLog (378)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module GammaUI (376)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module Documentation (374)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module MovieScene (370)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module PortalServices (362)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module AIModule (356)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
-[2018.02.22-14.09.48:083][399]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
-[2018.02.22-14.09.48:084][399]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module OculusInput (338)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module CableComponent (332)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
-[2018.02.22-14.09.48:218][399]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module SourceControl (289)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
-[2018.02.22-14.09.48:219][399]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module MainFrame (274)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module HotReload (273)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
-[2018.02.22-14.09.48:220][399]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
-[2018.02.22-14.09.48:221][399]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
-[2018.02.22-14.09.48:221][399]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
-[2018.02.22-14.09.48:221][399]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
-[2018.02.22-14.09.48:221][399]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
-[2018.02.22-14.09.48:321][399]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
-[2018.02.22-14.09.48:422][399]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
-[2018.02.22-14.09.48:422][399]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
-[2018.02.22-14.09.48:422][399]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
-[2018.02.22-14.09.48:422][399]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
-[2018.02.22-14.09.48:422][399]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
-[2018.02.22-14.09.48:422][399]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
-[2018.02.22-14.09.48:423][399]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
-[2018.02.22-14.09.48:423][399]LogModuleManager: Shutting down and abandoning module Paper2D (236)
-[2018.02.22-14.09.48:423][399]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
-[2018.02.22-14.09.48:423][399]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
-[2018.02.22-14.09.48:425][399]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
-[2018.02.22-14.09.48:425][399]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
-[2018.02.22-14.09.48:425][399]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
-[2018.02.22-14.09.48:425][399]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
-[2018.02.22-14.09.48:425][399]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
-[2018.02.22-14.09.48:425][399]LogModuleManager: Shutting down and abandoning module Media (221)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module Overlay (218)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module VREditor (214)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module UMG (200)
-[2018.02.22-14.09.48:431][399]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
-[2018.02.22-14.09.48:432][399]LogModuleManager: Shutting down and abandoning module Sequencer (198)
-[2018.02.22-14.09.48:432][399]LogModuleManager: Shutting down and abandoning module MessageLog (195)
-[2018.02.22-14.09.48:432][399]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
-[2018.02.22-14.09.48:432][399]LogModuleManager: Shutting down and abandoning module Slate (188)
-[2018.02.22-14.09.48:432][399]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module MRMesh (184)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module Networking (176)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module Core (172)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
-[2018.02.22-14.09.48:434][399]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
-[2018.02.22-14.09.48:435][399]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
-[2018.02.22-14.09.48:443][399]LogDerivedDataCache: Shutdown
-[2018.02.22-14.09.48:443][399]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
-[2018.02.22-14.09.48:443][399]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Messaging (105)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module InputCore (64)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module Settings (62)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module SteamVR (58)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
-[2018.02.22-14.09.48:444][399]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
-[2018.02.22-14.09.48:445][399]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
-[2018.02.22-14.09.48:445][399]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.02.22-14.09.48:445][399]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.02.22-14.09.48:445][399]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.02.22-14.09.48:445][399]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.02.22-14.09.48:445][399]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.02.22-14.09.48:445][399]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.02.22-14.09.48:445][399]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E39DBAA-4D84-0301-E500-4984A221CE52%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=8d224d924242bdea887803a04dc3ad5e%7C9199c58080e3449ba1957d1b52e6e9dc%7Cfeae32b7-8d61-4bd6-a6d8-4e585f3d71a7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.02.22-14.09.48:448][399]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.02.22-14.09.48:449][399]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.02.22-14.09.48:450][399]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.02.22-14.09.48:453][399]LogExit: Exiting.
-[2018.02.22-14.09.48:460][399]Log file closed, 02/22/18 15:09:48
+[2018.02.25-15.28.44:295][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.25-15.28.44:295][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.25-15.28.44:352][  0]LogInit: Computer: MININT-BGCOGT6
+[2018.02.25-15.28.44:352][  0]LogInit: User: Administrator
+[2018.02.25-15.28.44:352][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.25-15.28.44:352][  0]LogInit: High frequency timer resolution =2.533208 MHz
+[2018.02.25-15.28.44:352][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.25-15.28.44:353][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.25-15.28.44:353][  0]LogMemory: Process Physical Memory: 273.45 MB used, 273.45 MB peak
+[2018.02.25-15.28.44:353][  0]LogMemory: Process Virtual Memory: 272.06 MB used, 272.06 MB peak
+[2018.02.25-15.28.44:353][  0]LogMemory: Physical Memory: 5579.29 MB used,  10753.82 MB free, 16333.10 MB total
+[2018.02.25-15.28.44:353][  0]LogMemory: Virtual Memory: 680.28 MB used,  10753.82 MB free, 134217728.00 MB total
+[2018.02.25-15.28.44:551][  0]LogInit: Using OS detected language (en-US).
+[2018.02.25-15.28.44:551][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.25-15.28.44:554][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.25-15.28.44:982][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.25-15.28.45:266][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.25-15.28.45:350][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.02.25-15.28.45:350][  0]LogD3D11RHI:       4061/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.25-15.28.45:353][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.25-15.28.45:353][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.25-15.28.45:353][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.25-15.28.45:359][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.25-15.28.45:359][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.25-15.28.45:359][  0]LogWindows: EnumDisplayDevices:
+[2018.02.25-15.28.45:359][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2018.02.25-15.28.45:359][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.25-15.28.45:359][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.25-15.28.45:359][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.25-15.28.45:360][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.25-15.28.45:360][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.02.25-15.28.45:360][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.25-15.28.45:360][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.25-15.28.45:360][  0]LogRHI: Texture pool is 2843 MB (70% of 4061 MB)
+[2018.02.25-15.28.45:386][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.25-15.28.45:399][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.25-15.28.45:442][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (D:/UNREAL/AI_ThirdPerson/Intermediate/Shaders/WorkingDirectory/11304/).
+[2018.02.25-15.28.45:442][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/E69334424855E1E73330D6B6E8CD939B/'.
+[2018.02.25-15.28.45:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.25-15.28.46:441][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.25-15.28.46:502][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.25-15.28.46:560][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.25-15.28.46:617][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.25-15.28.46:679][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.25-15.28.46:735][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.25-15.28.46:796][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.25-15.28.46:853][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.25-15.28.46:906][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.25-15.28.46:966][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.25-15.28.47:022][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.25-15.28.47:079][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.25-15.28.47:133][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.25-15.28.47:192][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.25-15.28.47:302][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.25-15.28.47:302][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.25-15.28.47:366][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.25-15.28.47:411][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.25-15.28.47:516][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.25-15.28.47:544][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.25-15.28.47:597][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.25-15.28.47:651][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.25-15.28.47:704][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.25-15.28.47:763][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.25-15.28.47:763][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.25-15.28.48:281][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.25-15.28.48:355][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.25-15.28.48:355][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.25-15.28.48:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNREAL/AI_ThirdPerson/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.25-15.28.48:356][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.25-15.28.48:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNREAL/AI_ThirdPerson/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.25-15.28.48:356][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.25-15.28.48:372][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.25-15.28.48:385][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.25-15.28.48:396][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.25-15.28.48:396][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.25-15.28.48:397][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.25-15.28.48:397][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.25-15.28.48:804][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.25-15.28.49:165][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.25-15.28.49:216][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.25-15.28.49:216][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.25-15.28.49:216][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.25-15.28.49:216][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.25-15.28.49:216][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.25-15.28.49:244][  0]LogNetVersion: AI_ThirdPerson , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2507867504)
+[2018.02.25-15.28.49:424][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.02.25-15.28.49:988][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.109067 seconds
+[2018.02.25-15.28.49:994][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.25-15.28.49:994][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.25-15.28.49:994][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.25-15.28.50:051][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.25-15.28.53:068][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.25-15.28.53:111][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.25-15.28.53:891][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.25-15.28.54:358][  0]SourceControl: Source control is disabled
+[2018.02.25-15.28.54:358][  0]SourceControl: Source control is disabled
+[2018.02.25-15.28.54:415][  0]SourceControl: Source control is disabled
+[2018.02.25-15.28.54:471][  0]SourceControl: Source control is disabled
+[2018.02.25-15.28.55:373][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.25-15.28.55:666][  0]LogOcInput: OculusInput pre-init called
+[2018.02.25-15.28.56:004][  0]LogEngine: Initializing Engine...
+[2018.02.25-15.28.56:006][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.25-15.28.56:222][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.25-15.28.56:222][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.25-15.28.56:367][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.25-15.28.56:375][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-15.28.56:393][  0]LogInit: FAudioDevice initialized.
+[2018.02.25-15.28.56:476][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.25-15.28.56:485][  0]LogInit: Texture streaming: Enabled
+[2018.02.25-15.28.56:588][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.25-15.28.56:737][  0]LogInit: Transaction tracking system initialized
+[2018.02.25-15.28.57:091][  0]BlueprintLog: New page: Editor Load
+[2018.02.25-15.28.58:096][  0]LocalizationService: Localization service is disabled
+[2018.02.25-15.28.58:911][  0]LogConsoleResponse: Display: 
+[2018.02.25-15.28.59:096][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.25-15.28.59:096][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.25-15.28.59:096][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.25-15.28.59:351][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Content/' took 0.02s
+[2018.02.25-15.29.00:432][  0]SourceControl: Source control is disabled
+[2018.02.25-15.29.00:433][  0]Cmd: MAP LOAD FILE="D:/UNREAL/AI_ThirdPerson/Content/Joachim/MAP/WitchHunt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.25-15.29.00:474][  0]LightingResults: New page: Lighting Build
+[2018.02.25-15.29.00:522][  0]MapCheck: New page: Map Check
+[2018.02.25-15.29.00:522][  0]LightingResults: New page: Lighting Build
+[2018.02.25-15.29.01:310][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EdGraph_0.K2Node_FunctionEntry_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.01:696][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
+[2018.02.25-15.29.01:696][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading D:/UNREAL/AI_ThirdPerson/Content/Joachim/MAP/WitchHunt.umap.
+[2018.02.25-15.29.01:696][  0]LoadErrors: Error: /Game/Joachim/MAP/WitchHunt : Can't find file for asset. /Game/Joachim/MAP/WitchHunt_BuiltData
+[2018.02.25-15.29.01:723][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
+[2018.02.25-15.29.01:723][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading D:/UNREAL/AI_ThirdPerson/Content/Joachim/MAP/WitchHunt.umap.
+[2018.02.25-15.29.01:723][  0]LoadErrors: Error: /Game/Joachim/MAP/WitchHunt : Can't find file for asset. /Game/Joachim/MAP/WitchHunt_BuiltData
+[2018.02.25-15.29.01:774][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
+[2018.02.25-15.29.01:774][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading NULL.
+[2018.02.25-15.29.01:774][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
+[2018.02.25-15.29.01:774][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading NULL.
+[2018.02.25-15.29.01:895][  0]LogLinker: Warning: Can't find file '/Game/Joachim/MAP/WitchHunt_BuiltData'
+[2018.02.25-15.29.01:895][  0]LoadErrors: Failed to load /Game/Joachim/MAP/WitchHunt_BuiltData.WitchHunt_BuiltData Referenced by PersistentLevel
+[2018.02.25-15.29.01:895][  0]LogLinker: Warning: Can't find file for asset '/Game/Joachim/MAP/WitchHunt_BuiltData' while loading NULL.
+[2018.02.25-15.29.01:895][  0]LoadErrors: Failed to load /Game/Joachim/MAP/WitchHunt_BuiltData.WitchHunt_BuiltData Referenced by PersistentLevel
+[2018.02.25-15.29.02:113][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.EdGraphNode_Comment_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:113][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:113][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_39' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:113][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_Comment_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_108971' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_112027' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_20844' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_21305' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_3716' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4184' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4223' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_4678' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_61214' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_61534' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_65164' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_7346' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8160' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8427' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8733' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_87421' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CallFunction_8781' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_153' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_155' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_DynamicCast_179' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:UserConstructionScript.K2Node_FunctionEntry_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_203' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_27' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_IfThenElse_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAction_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_1058' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_1657' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:114][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_50' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputAxisEvent_86' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_InputKey_17975' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_1700' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_174' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_190' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_91' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableGet_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1333' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1684' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_1685' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_660' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_803' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:115][  0]LogBlueprint: Warning: Node '/Game/MixamoAnimPack/MixamoCharacter_Master.MixamoCharacter_Master:EventGraph.K2Node_VariableSet_850' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2018.02.25-15.29.02:314][  0]LogAIModule: Creating AISystem for world WitchHunt
+[2018.02.25-15.29.02:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.25-15.29.02:365][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.25-15.29.02:434][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.172ms to complete.
+[2018.02.25-15.29.02:434][  0]LogFileHelpers: Loading map 'WitchHunt' took 2.002
+[2018.02.25-15.29.02:498][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-15.29.02:582][  0]LogCollectionManager: Loaded 0 collections in 0.001495 seconds
+[2018.02.25-15.29.02:669][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Saved/Collections/' took 0.01s
+[2018.02.25-15.29.02:669][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.02.25-15.29.02:669][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_ThirdPerson/Content/Collections/' took 0.01s
+[2018.02.25-15.29.02:669][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.25-15.29.02:678][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2363 classes and 519 folders.
+[2018.02.25-15.29.02:750][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.25-15.29.02:789][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.25-15.29.02:838][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.25-15.29.02:921][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.25-15.29.02:924][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.25-15.29.02:930][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.25-15.29.03:033][  0]LogRenderer: Reallocating scene render targets to support 512x512 Format 10 NumSamples 1 (Frame:1).
+[2018.02.25-15.29.03:101][  0]LogRenderer: Reallocating scene render targets to support 888x512 Format 10 NumSamples 1 (Frame:1).
+[2018.02.25-15.29.03:320][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.25-15.29.03:320][  0]LogLoad: (Engine Initialization) Total time: 21.77 seconds
+[2018.02.25-15.29.03:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.25-15.29.03:320][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.25-15.29.03:356][  0]LogAssetRegistry: Asset discovery search completed in 13.9532 seconds
+[2018.02.25-15.29.03:358][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.25-15.29.03:358][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.02.25-15.29.03:361][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.25-15.29.03:420][  0]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-15.29.11:008][332]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-15.29.11:044][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
+[2018.02.25-15.29.11:045][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-15.29.11:045][332]PIE: New page: PIE session: WitchHunt (Feb 25, 2018, 5:29:11 PM)
+[2018.02.25-15.29.11:045][332]LogPlayLevel: Creating play world package: /Game/Joachim/MAP/UEDPIE_0_WitchHunt
+[2018.02.25-15.29.11:092][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046373s)
+[2018.02.25-15.29.11:092][332]LogAIModule: Creating AISystem for world WitchHunt
+[2018.02.25-15.29.11:092][332]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.02.25-15.29.11:093][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Joachim/MAP/WitchHunt.WitchHunt to /Game/Joachim/MAP/UEDPIE_0_WitchHunt.WitchHunt (0.047520s)
+[2018.02.25-15.29.11:107][332]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-15.29.11:121][332]LogInit: FAudioDevice initialized.
+[2018.02.25-15.29.11:175][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.25-15.29.11:180][332]LogWorld: Bringing World /Game/Joachim/MAP/UEDPIE_0_WitchHunt.WitchHunt up for play (max tick rate 60) at 2018.02.25-16.29.11
+[2018.02.25-15.29.11:182][332]LogWorld: Bringing up level for play took: 0.005575
+[2018.02.25-15.29.11:231][332]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.25-15.29.11:239][332]LogBlueprintUserMessages: [AI_Controller_C_0] The witch is patrolling the area...
+[2018.02.25-15.29.11:239][332]PIE: Play in editor start time for /Game/Joachim/MAP/UEDPIE_0_WitchHunt 1.122
+[2018.02.25-15.29.11:240][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
+[2018.02.25-15.29.18:031][589]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.18:531][608]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.19:548][646]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.20:054][665]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.21:066][703]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.21:573][722]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.30:562][ 58]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] Heading to waypoint 1
+[2018.02.25-15.29.31:776][104]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.32:277][123]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.32:779][142]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.33:292][161]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.33:788][180]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.34:299][199]LogBlueprintUserMessages: [AI_Bot] Player spotted!
+[2018.02.25-15.29.42:064][487]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 2
+[2018.02.25-15.29.42:327][497]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 3
+[2018.02.25-15.29.54:728][971]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] Heading to waypoint 0
+[2018.02.25-15.29.56:489][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
+[2018.02.25-15.29.56:566][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel' has LevelScriptBlueprint '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt' with GeneratedClass '/Game/Joachim/MAP/WitchHunt.WitchHunt_C' with ClassGeneratedBy '/Game/Joachim/MAP/WitchHunt.WitchHunt:PersistentLevel.WitchHunt'
+[2018.02.25-15.30.28:457][150]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-15.30.28:531][150]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.25-15.30.28:532][150]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.25-15.30.34:485][365]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.02.25-15.30.40:571][569]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.26-06.19.28:481][823]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.26-06.19.28:675][824]Cmd: QUIT_EDITOR
+[2018.02.26-06.19.29:376][824]LogExit: Preparing to exit.
+[2018.02.26-06.19.29:534][824]LogExit: Editor shut down
+[2018.02.26-06.19.29:543][824]LogExit: Transaction tracking system shut down
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Content/' was aborted.
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.26-06.19.29:741][824]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.26-06.19.29:851][824]LogExit: Object subsystem successfully closed.
+[2018.02.26-06.19.29:868][824]LogD3D11RHI: Shutdown
+[2018.02.26-06.19.29:868][824]LogD3D11RHI: CleanupD3DDevice
+[2018.02.26-06.19.29:879][824]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.26-06.19.29:893][824]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.26-06.19.29:893][824]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.02.26-06.19.29:893][824]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.26-06.19.29:893][824]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.26-06.19.29:893][824]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.26-06.19.29:893][824]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.26-06.19.29:894][824]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Content/Collections/' was aborted.
+[2018.02.26-06.19.29:894][824]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Content/Developers/Administrator/Collections/' was aborted.
+[2018.02.26-06.19.29:894][824]LogDirectoryWatcher: A directory notification for 'D:/UNREAL/AI_ThirdPerson/Saved/Collections/' was aborted.
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.26-06.19.29:894][824]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.26-06.19.29:895][824]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.26-06.19.30:854][824]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.26-06.19.30:855][824]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.26-06.19.30:920][824]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.26-06.19.30:927][824]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.26-06.19.31:134][824]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.26-06.19.31:135][824]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.26-06.19.31:136][824]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.26-06.19.31:136][824]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.26-06.19.31:136][824]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.26-06.19.31:137][824]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.26-06.19.31:238][824]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.26-06.19.31:338][824]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.26-06.19.31:338][824]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.26-06.19.31:338][824]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.26-06.19.31:338][824]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.26-06.19.31:338][824]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.26-06.19.31:338][824]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.26-06.19.31:339][824]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.26-06.19.31:339][824]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.26-06.19.31:339][824]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.26-06.19.31:339][824]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.26-06.19.31:341][824]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.26-06.19.31:341][824]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.26-06.19.31:341][824]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.26-06.19.31:341][824]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.26-06.19.31:341][824]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.26-06.19.31:341][824]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.26-06.19.31:348][824]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.26-06.19.31:350][824]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.26-06.19.31:350][824]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.26-06.19.31:351][824]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.26-06.19.31:351][824]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.26-06.19.31:351][824]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.26-06.19.31:351][824]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.26-06.19.31:351][824]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.26-06.19.31:351][824]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.26-06.19.31:352][824]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.26-06.19.31:409][824]LogDerivedDataCache: Shutdown
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.26-06.19.31:409][824]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.26-06.19.31:410][824]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.26-06.19.31:410][824]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.26-06.19.31:410][824]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7CD457AE-4C5B-92EE-CCE2-1585858FF315%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=8d224d924242bdea887803a04dc3ad5e%7C9199c58080e3449ba1957d1b52e6e9dc%7Cfeae32b7-8d61-4bd6-a6d8-4e585f3d71a7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.26-06.19.31:423][824]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.26-06.19.31:424][824]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.26-06.19.31:424][824]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.26-06.19.31:424][824]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.26-06.19.31:424][824]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.26-06.19.31:424][824]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.26-06.19.31:425][824]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.26-06.19.31:425][824]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.26-06.19.31:426][824]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.26-06.19.31:429][824]LogExit: Exiting.
+[2018.02.26-06.19.31:435][824]Log file closed, 02/26/18 07:19:31
