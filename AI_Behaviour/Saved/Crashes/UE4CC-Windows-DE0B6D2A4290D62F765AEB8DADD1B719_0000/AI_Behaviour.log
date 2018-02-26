@@ -1,0 +1,1223 @@
+﻿Log file open, 02/24/18 12:00:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AI_Behaviour
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-144366079) SRandInit(-144366079).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197555
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file D:/UNREAL/AI_Behaviour/Binaries/Win64/UE4Editor-AI_Behaviour.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.24-11.00.45:121][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-11.00.45:121][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.24-11.00.45:130][  0]LogInit: Computer: MININT-BGCOGT6
+[2018.02.24-11.00.45:130][  0]LogInit: User: Administrator
+[2018.02.24-11.00.45:130][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.24-11.00.45:130][  0]LogInit: High frequency timer resolution =2.533208 MHz
+[2018.02.24-11.00.45:130][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.24-11.00.45:130][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.24-11.00.45:130][  0]LogMemory: Process Physical Memory: 273.96 MB used, 273.96 MB peak
+[2018.02.24-11.00.45:130][  0]LogMemory: Process Virtual Memory: 272.07 MB used, 272.07 MB peak
+[2018.02.24-11.00.45:130][  0]LogMemory: Physical Memory: 6041.31 MB used,  10291.79 MB free, 16333.10 MB total
+[2018.02.24-11.00.45:130][  0]LogMemory: Virtual Memory: 680.28 MB used,  10291.79 MB free, 134217728.00 MB total
+[2018.02.24-11.00.45:292][  0]LogInit: Using OS detected language (en-US).
+[2018.02.24-11.00.45:292][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.24-11.00.45:295][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.24-11.00.45:716][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.24-11.00.45:996][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.24-11.00.46:042][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.02.24-11.00.46:042][  0]LogD3D11RHI:       4061/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.24-11.00.46:044][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.24-11.00.46:044][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.24-11.00.46:044][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.24-11.00.46:050][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.24-11.00.46:050][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.24-11.00.46:050][  0]LogWindows: EnumDisplayDevices:
+[2018.02.24-11.00.46:050][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2018.02.24-11.00.46:050][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.24-11.00.46:050][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.24-11.00.46:050][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.02.24-11.00.46:051][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.24-11.00.46:051][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.02.24-11.00.46:051][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.24-11.00.46:051][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.24-11.00.46:051][  0]LogRHI: Texture pool is 2843 MB (70% of 4061 MB)
+[2018.02.24-11.00.46:076][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.24-11.00.46:089][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.24-11.00.46:131][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (D:/UNREAL/AI_Behaviour/Intermediate/Shaders/WorkingDirectory/13988/).
+[2018.02.24-11.00.46:131][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/81F845E24797ED0C1D252B9BE39939EB/'.
+[2018.02.24-11.00.46:131][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.24-11.00.47:096][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.24-11.00.47:156][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.24-11.00.47:217][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.24-11.00.47:273][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.24-11.00.47:331][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.24-11.00.47:387][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.24-11.00.47:442][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.24-11.00.47:499][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.24-11.00.47:548][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.24-11.00.47:601][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.24-11.00.47:656][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.24-11.00.47:717][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.24-11.00.47:772][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.24-11.00.47:828][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.24-11.00.47:943][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.24-11.00.47:943][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.24-11.00.47:998][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.24-11.00.48:049][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.24-11.00.48:151][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.24-11.00.48:184][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.24-11.00.48:237][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.24-11.00.48:294][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.24-11.00.48:353][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.24-11.00.48:408][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.24-11.00.48:408][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.24-11.00.48:914][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.24-11.00.48:988][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-11.00.48:988][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.24-11.00.48:988][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNREAL/AI_Behaviour/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.24-11.00.48:988][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.24-11.00.48:988][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNREAL/AI_Behaviour/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.24-11.00.48:988][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.24-11.00.49:007][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.24-11.00.49:020][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.24-11.00.49:030][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.24-11.00.49:031][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.24-11.00.49:032][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-11.00.49:032][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-11.00.49:409][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-11.00.49:776][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.24-11.00.49:823][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.24-11.00.49:823][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.24-11.00.49:823][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.24-11.00.49:823][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.24-11.00.49:823][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.24-11.00.49:854][  0]LogNetVersion: AI_Behaviour , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3887751288)
+[2018.02.24-11.00.50:028][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.02.24-11.00.50:571][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.086090 seconds
+[2018.02.24-11.00.50:577][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.24-11.00.50:577][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.24-11.00.50:577][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.24-11.00.50:646][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.24-11.00.53:751][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.24-11.00.53:799][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.24-11.00.54:697][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.24-11.00.55:234][  0]SourceControl: Source control is disabled
+[2018.02.24-11.00.55:234][  0]SourceControl: Source control is disabled
+[2018.02.24-11.00.55:304][  0]SourceControl: Source control is disabled
+[2018.02.24-11.00.55:367][  0]SourceControl: Source control is disabled
+[2018.02.24-11.00.56:351][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.24-11.00.56:660][  0]LogOcInput: OculusInput pre-init called
+[2018.02.24-11.00.56:988][  0]LogEngine: Initializing Engine...
+[2018.02.24-11.00.56:990][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.24-11.00.57:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.24-11.00.57:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.24-11.00.57:351][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.24-11.00.57:358][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-11.00.57:375][  0]LogInit: FAudioDevice initialized.
+[2018.02.24-11.00.57:457][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-11.00.57:469][  0]LogInit: Texture streaming: Enabled
+[2018.02.24-11.00.57:579][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.24-11.00.57:736][  0]LogInit: Transaction tracking system initialized
+[2018.02.24-11.00.58:079][  0]BlueprintLog: New page: Editor Load
+[2018.02.24-11.00.59:105][  0]LocalizationService: Localization service is disabled
+[2018.02.24-11.00.59:928][  0]LogConsoleResponse: Display: 
+[2018.02.24-11.01.00:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.24-11.01.00:109][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.24-11.01.00:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.24-11.01.01:368][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_Behaviour/Content/' took 0.01s
+[2018.02.24-11.01.01:416][  0]SourceControl: Source control is disabled
+[2018.02.24-11.01.01:416][  0]Cmd: MAP LOAD FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.24-11.01.01:417][  0]LightingResults: New page: Lighting Build
+[2018.02.24-11.01.01:469][  0]MapCheck: New page: Map Check
+[2018.02.24-11.01.01:469][  0]LightingResults: New page: Lighting Build
+[2018.02.24-11.01.01:771][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.02.24-11.01.01:772][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.02.24-11.01.01:772][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.02.24-11.01.01:786][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.02.24-11.01.01:786][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.02.24-11.01.01:786][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.02.24-11.01.01:789][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.02.24-11.01.01:789][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.02.24-11.01.01:789][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.02.24-11.01.01:789][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.02.24-11.01.01:832][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.02.24-11.01.01:832][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.24-11.01.01:832][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.02.24-11.01.01:832][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.02.24-11.01.02:088][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.24-11.01.02:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.24-11.01.02:110][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.24-11.01.02:176][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.918ms to complete.
+[2018.02.24-11.01.02:177][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.760
+[2018.02.24-11.01.02:228][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.24-11.01.02:316][  0]LogCollectionManager: Loaded 0 collections in 0.001504 seconds
+[2018.02.24-11.01.02:399][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_Behaviour/Saved/Collections/' took 0.01s
+[2018.02.24-11.01.02:399][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_Behaviour/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.02.24-11.01.02:399][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/AI_Behaviour/Content/Collections/' took 0.01s
+[2018.02.24-11.01.02:399][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.24-11.01.02:408][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2364 classes and 521 folders.
+[2018.02.24-11.01.02:483][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.24-11.01.02:522][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.24-11.01.02:571][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.24-11.01.02:662][  0]LogSlate: Took 0.000374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-11.01.02:664][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.24-11.01.02:670][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.24-11.01.02:768][  0]LogRenderer: Reallocating scene render targets to support 844x468 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-11.01.02:941][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.24-11.01.02:941][  0]LogLoad: (Engine Initialization) Total time: 20.45 seconds
+[2018.02.24-11.01.02:941][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.24-11.01.02:941][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.24-11.01.02:977][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.24-11.01.03:037][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-11.01.03:083][  1]LogAssetRegistry: Asset discovery search completed in 13.0774 seconds
+[2018.02.24-11.01.03:085][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.24-11.01.03:085][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.02.24-11.01.03:968][ 50]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-11.01.11:984][530]LogRenderer: Reallocating scene render targets to support 848x468 Format 10 NumSamples 1 (Frame:513).
+[2018.02.24-11.01.12:028][531]LogRenderer: Reallocating scene render targets to support 852x468 Format 10 NumSamples 1 (Frame:515).
+[2018.02.24-11.01.12:072][532]LogRenderer: Reallocating scene render targets to support 872x468 Format 10 NumSamples 1 (Frame:517).
+[2018.02.24-11.01.12:118][533]LogRenderer: Reallocating scene render targets to support 888x468 Format 10 NumSamples 1 (Frame:519).
+[2018.02.24-11.01.12:159][534]LogRenderer: Reallocating scene render targets to support 900x468 Format 10 NumSamples 1 (Frame:521).
+[2018.02.24-11.01.12:204][535]LogRenderer: Reallocating scene render targets to support 920x468 Format 10 NumSamples 1 (Frame:523).
+[2018.02.24-11.01.12:244][536]LogRenderer: Reallocating scene render targets to support 956x468 Format 10 NumSamples 1 (Frame:525).
+[2018.02.24-11.01.12:285][537]LogRenderer: Reallocating scene render targets to support 976x468 Format 10 NumSamples 1 (Frame:527).
+[2018.02.24-11.01.12:326][538]LogRenderer: Reallocating scene render targets to support 992x468 Format 10 NumSamples 1 (Frame:529).
+[2018.02.24-11.01.12:373][539]LogRenderer: Reallocating scene render targets to support 1004x468 Format 10 NumSamples 1 (Frame:531).
+[2018.02.24-11.01.12:478][544]LogRenderer: Reallocating scene render targets to support 1008x468 Format 10 NumSamples 1 (Frame:533).
+[2018.02.24-11.01.22:067][117]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-11.01.22:128][117]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.24-11.01.48:085][656]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.02.24-11.01.48:761][656]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-11.01.48:848][657]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.24-11.01.59:354][286]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-11.02.00:415][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-11.02.00:428][336]LogSavePackage: Save=8.54ms
+[2018.02.24-11.02.00:428][336]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller939AEABF40ECEDFA01F369BBFF486478.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-11.02.00:429][336]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-11.02.19:364][472]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-11.02.20:141][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-11.02.20:152][506]LogSavePackage: Save=7.61ms
+[2018.02.24-11.02.20:152][506]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_ControllerB6170FB8435133C02A50BCAF9E7DD0C4.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-11.02.20:153][506]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-11.05.56:779][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-11.05.56:827][423]LogSavePackage: Save=44.34ms
+[2018.02.24-11.05.56:827][423]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterA06C66154087DE9E4B1759B8601926BF.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-11.05.56:829][423]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-11.05.57:620][470]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.09.44:110][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-11.09.44:161][993]LogSavePackage: Save=46.44ms
+[2018.02.24-11.09.44:161][993]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character9C942D514C3573621FA2B697ECE4A08E.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-11.09.44:162][993]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-11.09.44:770][ 29]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.11.34:929][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-11.11.34:984][597]LogSavePackage: Save=51.08ms
+[2018.02.24-11.11.34:984][597]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character7170617444C75FE504252E8D596834E0.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-11.11.34:985][597]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-11.11.35:844][648]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.19.55:243][397]LogSavePackage: Save=209.63ms
+[2018.02.24-11.19.55:243][397]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap_Auto1AF73441D4D5F418D925074AF06D0F549.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.02.24-11.19.55:245][397]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.02.24-11.19.55:246][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.249
+[2018.02.24-11.19.55:246][397]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2018.02.24-11.19.55:247][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI_Controller] ([1] browsable assets)...
+[2018.02.24-11.19.55:248][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI_Controller]
+[2018.02.24-11.19.55:266][397]LogSavePackage: Save=16.33ms
+[2018.02.24-11.19.55:267][397]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller_Auto16262792445C8ADF7062483ADF7497A01.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_Controller_Auto1.uasset'
+[2018.02.24-11.19.55:271][397]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_Controller_Auto1.uasset
+[2018.02.24-11.19.55:272][397]LogFileHelpers: Auto-saving content packages took 0.025
+[2018.02.24-11.35.43:365][215]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.35.45:195][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-11.35.45:253][293]LogSavePackage: Save=52.98ms
+[2018.02.24-11.35.45:253][293]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character5B3B94004B57AE7382F8C3BD05F60472.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-11.35.45:254][293]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-11.37.18:033][825]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.37.37:846][982]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.37.39:400][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-11.37.39:461][ 43]LogSavePackage: Save=57.49ms
+[2018.02.24-11.37.39:461][ 43]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterC01EC1954D15C1AACCB288AB5F4CB2BC.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-11.37.39:462][ 43]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-11.38.35:619][411]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-11.39.05:626][193]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-11.39.07:317][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-11.39.07:370][263]LogSavePackage: Save=50.83ms
+[2018.02.24-11.39.07:370][263]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterC4B5BE53423A00930BA8DB972D0EFD1A.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-11.39.07:372][263]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-11.39.48:723][743]BlueprintLog: New page: Compile SensePlayerService
+[2018.02.24-11.39.50:276][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SensePlayerService" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/SensePlayerService.uasset" SILENT=true
+[2018.02.24-11.39.50:293][828]LogSavePackage: Save=13.63ms
+[2018.02.24-11.39.50:293][828]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/SensePlayerService344A5EF9401D515487B6E192BAE94D86.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/SensePlayerService.uasset'
+[2018.02.24-11.39.50:295][828]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/SensePlayerService.uasset
+[2018.02.24-11.40.25:398][931]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-11.40.26:360][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-11.40.26:382][974]LogSavePackage: Save=18.22ms
+[2018.02.24-11.40.26:382][974]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_ControllerDF70BC1D44AEDA1BB61F69A060B695B6.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-11.40.26:384][974]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-11.43.07:971][608]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-11.43.09:065][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-11.43.09:091][659]LogSavePackage: Save=22.26ms
+[2018.02.24-11.43.09:091][659]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller2CD8E108457ECD09A9393FBF256DF37C.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-11.43.09:092][659]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-11.43.33:789][127]LogSavePackage: Save=182.32ms
+[2018.02.24-11.43.33:790][127]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap_Auto2586FA792480AA61B36563FB445483974.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.02.24-11.43.33:790][127]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.02.24-11.43.33:791][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.215
+[2018.02.24-11.43.33:791][127]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2018.02.24-11.43.33:793][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask] ([1] browsable assets)...
+[2018.02.24-11.43.33:793][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask]
+[2018.02.24-11.43.33:815][127]LogSavePackage: Save=18.97ms
+[2018.02.24-11.43.33:815][127]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/StopLogicAndReturnTask_Auto284487FD249E4436B449F2885EACC431A.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask_Auto2.uasset'
+[2018.02.24-11.43.33:816][127]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask_Auto2.uasset
+[2018.02.24-11.43.33:817][127]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.02.24-11.54.38:462][  5]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-11.54.39:318][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-11.54.39:347][ 41]LogSavePackage: Save=23.90ms
+[2018.02.24-11.54.39:347][ 41]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller670C2A4542AF951D18596BAB04B44D68.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-11.54.39:349][ 41]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-11.55.14:654][157]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.021
+[2018.02.24-11.55.14:656][157]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask] ([1] browsable assets)...
+[2018.02.24-11.55.14:656][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask]
+[2018.02.24-11.55.14:678][157]LogSavePackage: Save=18.49ms
+[2018.02.24-11.55.14:678][157]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/StopLogicAndReturnTask_Auto38EFB80CD428DC98657373C87B45029F1.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask_Auto3.uasset'
+[2018.02.24-11.55.14:679][157]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/StopLogicAndReturnTask_Auto3.uasset
+[2018.02.24-11.55.14:679][157]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.02.24-12.05.19:177][284]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-12.05.19:197][284]LogBlueprint: Error: [Compiler AI_Controller] This blueprint (self) is not a AI_Character_C, therefore ' Target ' must have a connection.
+[2018.02.24-12.05.19:197][284]LogBlueprint: Error: [Compiler AI_Controller] This blueprint (self) is not a AI_Character_C, therefore ' Target ' must have a connection.
+[2018.02.24-12.05.19:198][284]LogBlueprint: Error: [Compiler AI_Controller] Variable node  Set AI_isPatroling  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.02.24-12.05.19:198][284]LogBlueprint: Error: [Compiler AI_Controller] Variable node  Set AI_isPatroling  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.02.24-12.05.19:422][284]LogBlueprint: Warning: [Compiler AI_Controller] [3876.93] Compile of AI_Controller failed. 4 Fatal Issue(s) 0 Warning(s) [in 245 ms] (/Game/ThirdPersonBP/Blueprints/AI_Controller.AI_Controller)
+[2018.02.24-12.05.20:268][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-12.05.20:301][334]LogSavePackage: Save=28.05ms
+[2018.02.24-12.05.20:301][334]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller87E8474C476D6886564ED1B4BA8D8F10.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-12.05.20:302][334]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-12.06.46:628][513]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-12.06.47:751][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-12.06.47:784][564]LogSavePackage: Save=29.45ms
+[2018.02.24-12.06.47:784][564]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller33095A08499BCBE91D25FFBCBF11714F.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-12.06.47:786][564]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-12.07.00:555][330]BlueprintLog: New page: Compile AI_Controller
+[2018.02.24-12.07.01:413][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Controller" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset" SILENT=true
+[2018.02.24-12.07.01:447][365]LogSavePackage: Save=29.85ms
+[2018.02.24-12.07.01:447][365]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Controller83B90A09451D449DE12F8AAFCF34C64B.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset'
+[2018.02.24-12.07.01:449][365]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Controller.uasset
+[2018.02.24-12.07.13:506][ 73]LogSavePackage: Save=198.14ms
+[2018.02.24-12.07.13:507][ 73]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMapCBFDE0BE4388CC8A656169B485E7877A.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-12.07.13:508][ 73]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-12.08.02:340][829]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.24-12.08.59:981][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PredefinedPathService" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset" SILENT=true
+[2018.02.24-12.09.00:007][ 92]LogSavePackage: Save=21.05ms
+[2018.02.24-12.09.00:007][ 92]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PredefinedPathService6BFFD96747A2BCE3ADE06197D0571089.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset'
+[2018.02.24-12.09.00:009][ 92]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset
+[2018.02.24-12.10.55:633][  5]LogSlate: Took 0.001787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.24-12.11.23:786][687]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.15.23:837][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.15.23:898][999]LogSavePackage: Save=56.48ms
+[2018.02.24-12.15.23:898][999]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character63E7B81D49A43FA91DB9DBA66327762A.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.15.23:899][999]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.15.24:693][ 46]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.15.36:828][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PredefinedPathService" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset" SILENT=true
+[2018.02.24-12.15.36:848][745]LogSavePackage: Save=16.79ms
+[2018.02.24-12.15.36:848][745]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PredefinedPathService763F8F6D408A527B82768D80549F6324.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset'
+[2018.02.24-12.15.36:850][745]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset
+[2018.02.24-12.15.37:776][801]BlueprintLog: New page: Compile PredefinedPathService
+[2018.02.24-12.17.13:763][538]LogSavePackage: Save=191.92ms
+[2018.02.24-12.17.13:763][538]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap_Auto472B6A6004A1AA813154B71B2A4BEFE50.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.02.24-12.17.13:764][538]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.02.24-12.17.13:765][538]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.225
+[2018.02.24-12.17.13:765][538]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2018.02.24-12.17.21:152][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PredefinedPathService" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset" SILENT=true
+[2018.02.24-12.17.21:172][981]LogSavePackage: Save=16.42ms
+[2018.02.24-12.17.21:172][981]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PredefinedPathService502EB92A4E264992746AA8BF5CA02FD3.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset'
+[2018.02.24-12.17.21:173][981]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset
+[2018.02.24-12.17.22:049][ 34]BlueprintLog: New page: Compile PredefinedPathService
+[2018.02.24-12.21.01:575][179]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.21.02:752][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.21.02:810][219]LogSavePackage: Save=54.73ms
+[2018.02.24-12.21.02:810][219]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character1E3A3DDF46471A76B9B59E8966DD16DB.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.21.02:812][219]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.28.09:056][612]BlueprintLog: New page: Compile PatrolVectors
+[2018.02.24-12.28.10:287][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PatrolVectors" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolVectors.uasset" SILENT=true
+[2018.02.24-12.28.10:296][664]LogSavePackage: Save=4.94ms
+[2018.02.24-12.28.10:296][664]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PatrolVectors3A8C2345433BAA28162D91A7957D9BF1.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolVectors.uasset'
+[2018.02.24-12.28.10:297][664]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolVectors.uasset
+[2018.02.24-12.28.27:194][657]LogSavePackage: Save=196.86ms
+[2018.02.24-12.28.27:194][657]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMapC966D4D34E6AF3411C9FF3966EF7D544.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-12.28.27:196][657]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-12.30.34:400][ 81]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.30.36:372][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.30.36:428][165]LogSavePackage: Save=52.58ms
+[2018.02.24-12.30.36:428][165]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterF344F80C4AB44A73623F7C9D88EF449C.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.30.36:429][165]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.31.34:270][635]BlueprintLog: New page: Compile PredefinedPathService
+[2018.02.24-12.31.57:676][ 16]LogSavePackage: Save=202.40ms
+[2018.02.24-12.31.57:676][ 16]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMapDD656EDF4C93275D20F453BB18632B0E.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-12.31.57:678][ 16]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-12.34.01:027][393]BlueprintLog: New page: Compile PredefinedPathService
+[2018.02.24-12.34.01:838][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PredefinedPathService" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset" SILENT=true
+[2018.02.24-12.34.01:860][433]LogSavePackage: Save=17.29ms
+[2018.02.24-12.34.01:860][433]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PredefinedPathService2C06C24843E07E551601A496B40AD12B.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset'
+[2018.02.24-12.34.01:861][433]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset
+[2018.02.24-12.34.46:246][ 80]BlueprintLog: New page: Compile PatrolVectors
+[2018.02.24-12.34.47:809][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PatrolVectors" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolVectors.uasset" SILENT=true
+[2018.02.24-12.34.47:817][152]LogSavePackage: Save=4.93ms
+[2018.02.24-12.34.47:817][152]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PatrolVectors37EAB77B467E599E15AC3FA966FBF28A.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolVectors.uasset'
+[2018.02.24-12.34.47:818][152]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolVectors.uasset
+[2018.02.24-12.35.24:733][361]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.41.57:878][863]LogSavePackage: Save=187.26ms
+[2018.02.24-12.41.57:878][863]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap_Auto516F0774F4F93BD215BB58CA4F8AA0F38.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.02.24-12.41.57:879][863]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.02.24-12.41.57:880][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.225
+[2018.02.24-12.41.57:880][863]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2018.02.24-12.41.57:882][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI_Character] ([1] browsable assets)...
+[2018.02.24-12.41.57:905][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AI_Character.AI_Character]
+[2018.02.24-12.41.57:905][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI_Character]
+[2018.02.24-12.41.57:970][863]LogSavePackage: Save=61.18ms
+[2018.02.24-12.41.57:970][863]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character_Auto5154B043149257D1A14F2F8AA034244B5.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_Character_Auto5.uasset'
+[2018.02.24-12.41.57:971][863]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI_Character_Auto5.uasset
+[2018.02.24-12.41.57:971][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask] ([1] browsable assets)...
+[2018.02.24-12.41.57:971][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask]
+[2018.02.24-12.41.58:015][863]LogSavePackage: Save=40.80ms
+[2018.02.24-12.41.58:015][863]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/IncrementWaypointTask_Auto5DBA55BE64B57C1F2A59A71A655B17D20.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask_Auto5.uasset'
+[2018.02.24-12.41.58:016][863]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask_Auto5.uasset
+[2018.02.24-12.41.58:017][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PredefinedPathService] ([1] browsable assets)...
+[2018.02.24-12.41.58:017][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PredefinedPathService]
+[2018.02.24-12.41.58:035][863]LogSavePackage: Save=15.34ms
+[2018.02.24-12.41.58:035][863]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PredefinedPathService_Auto5AB2E3C6E4FFCCD4D30BF348FCB87864E.tmp' to 'D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PredefinedPathService_Auto5.uasset'
+[2018.02.24-12.41.58:055][863]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PredefinedPathService_Auto5.uasset
+[2018.02.24-12.41.58:055][863]LogFileHelpers: Auto-saving content packages took 0.173
+[2018.02.24-12.49.36:581][374]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.50.53:069][914]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.51.09:249][849]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.51.11:387][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.51.11:446][946]LogSavePackage: Save=53.70ms
+[2018.02.24-12.51.11:446][946]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character20D1D8BC4AEC181C709CE4A648B2A087.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.51.11:448][946]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.51.33:887][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.51.33:955][291]LogSavePackage: Save=64.60ms
+[2018.02.24-12.51.33:955][291]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character0DBC28FD47F625C82C000D889CA33ABF.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.51.33:956][291]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.51.34:585][328]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.51.43:242][817]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2018.02.24-12.52.36:147][958]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.52.37:379][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.52.37:436][996]LogSavePackage: Save=53.94ms
+[2018.02.24-12.52.37:436][996]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterF657364A4726C07F6A123E8B799BB18E.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.52.37:437][996]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.52.49:525][718]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.52.54:069][956]BlueprintLog: New page: Compile PredefinedPathService
+[2018.02.24-12.52.54:796][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PredefinedPathService" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset" SILENT=true
+[2018.02.24-12.52.54:815][991]LogSavePackage: Save=16.02ms
+[2018.02.24-12.52.54:815][991]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PredefinedPathServiceA93917B94C9B398C287C08BAEC05E9B3.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset'
+[2018.02.24-12.52.54:817][991]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PredefinedPathService.uasset
+[2018.02.24-12.52.57:578][141]LogSavePackage: Save=181.64ms
+[2018.02.24-12.52.57:578][141]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap6655DDD946BDC19E8C9BED9253C314C9.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-12.52.57:580][141]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-12.54.37:156][ 78]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.54.38:775][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.54.38:835][137]LogSavePackage: Save=56.95ms
+[2018.02.24-12.54.38:835][137]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character843D02B94FC682AE13CB559CBFD9FE5F.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.54.38:837][137]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-12.54.42:020][312]LogSavePackage: Save=194.33ms
+[2018.02.24-12.54.42:020][312]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMapFCF2F31E4BB91E1C407D8A86481B44B3.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-12.54.42:022][312]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-12.55.16:402][358]LogSavePackage: Save=201.29ms
+[2018.02.24-12.55.16:402][358]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap70EAB78F4253EA1F200AC1996F58C792.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-12.55.16:404][358]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-12.56.43:924][579]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.56.59:876][507]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-12.57.00:571][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-12.57.00:628][518]LogSavePackage: Save=52.76ms
+[2018.02.24-12.57.00:628][518]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character9CB26280413843812F8B3D946F21F148.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-12.57.00:629][518]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-13.02.08:544][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/PatrolLoop" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolLoop.uasset" SILENT=true
+[2018.02.24-13.02.08:555][876]LogSavePackage: Save=5.90ms
+[2018.02.24-13.02.08:555][876]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/PatrolLoop334FC3AE47257F015D681CBFEC3DE7C0.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolLoop.uasset'
+[2018.02.24-13.02.08:557][876]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/PatrolLoop.uasset
+[2018.02.24-13.02.10:485][992]BlueprintLog: New page: Compile IncrementWaypointTask
+[2018.02.24-13.02.11:352][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset" SILENT=true
+[2018.02.24-13.02.11:387][ 35]LogSavePackage: Save=30.36ms
+[2018.02.24-13.02.11:387][ 35]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/IncrementWaypointTask740B42FC4569E857ED838CB5BB5FA425.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset'
+[2018.02.24-13.02.11:389][ 35]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset
+[2018.02.24-13.06.09:627][251]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::GreaterEqual_IntInt' [Element not found.]
+[2018.02.24-13.10.00:031][993]BlueprintLog: New page: Compile IncrementWaypointTask
+[2018.02.24-13.10.01:369][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset" SILENT=true
+[2018.02.24-13.10.01:406][ 64]LogSavePackage: Save=31.98ms
+[2018.02.24-13.10.01:406][ 64]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/IncrementWaypointTaskC460D8D84BE8B8CBC1765793B5FFA75C.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset'
+[2018.02.24-13.10.01:408][ 64]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset
+[2018.02.24-13.10.14:666][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/IncrementWaypointTask" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset" SILENT=true
+[2018.02.24-13.10.14:700][859]LogSavePackage: Save=30.86ms
+[2018.02.24-13.10.14:700][859]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/IncrementWaypointTask402588AE46ED7A062F4015BA1C542AAA.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset'
+[2018.02.24-13.10.14:701][859]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/IncrementWaypointTask.uasset
+[2018.02.24-13.10.16:016][938]BlueprintLog: New page: Compile IncrementWaypointTask
+[2018.02.24-13.10.24:695][437]LogSavePackage: Save=191.01ms
+[2018.02.24-13.10.24:695][437]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap9C16C24148C4CCEEDA27B1A50A3940C1.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-13.10.24:697][437]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-13.10.45:311][672]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2018.02.24-13.11.32:806][369]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-13.11.53:092][550]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-13.13.08:329][ 16]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-13.13.09:659][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-13.13.09:720][ 59]LogSavePackage: Save=55.68ms
+[2018.02.24-13.13.09:720][ 59]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_Character7FA3B77A43D6F4B13DD1D99F7330EE85.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-13.13.09:883][ 59]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-13.13.13:965][288]LogSavePackage: Save=194.44ms
+[2018.02.24-13.13.13:965][288]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMapB08140DB46087465B7A290AC9063E0A5.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-13.13.13:967][288]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-13.17.28:605][560]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-13.17.28:677][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.17.28:681][560]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-13.17.28:705][560]LogPlayLevel: [PlayLevel] Compiling AI_Character before play...
+[2018.02.24-13.17.29:291][560]LogPlayLevel: PlayLevel: Blueprint regeneration took 610 ms (1 blueprints)
+[2018.02.24-13.17.29:292][560]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2018, 3:17:29 PM)
+[2018.02.24-13.17.29:292][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.24-13.17.29:309][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017082s)
+[2018.02.24-13.17.29:310][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.24-13.17.29:310][560]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.02.24-13.17.29:310][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018395s)
+[2018.02.24-13.17.29:340][560]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-13.17.29:355][560]LogInit: FAudioDevice initialized.
+[2018.02.24-13.17.29:441][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.24-13.17.29:444][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.24-14.17.29
+[2018.02.24-13.17.29:445][560]LogWorld: Bringing up level for play took: 0.002472
+[2018.02.24-13.17.30:214][560]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.02.24-13.17.30:216][560]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.065
+[2018.02.24-13.17.30:216][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.17.30:218][560]LogScript: Warning: Accessed None trying to read property BrainComponent
+	AI_Controller_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Controller_C_0
+	Function /Game/ThirdPersonBP/Blueprints/AI_Controller.AI_Controller_C:ExecuteUbergraph_AI_Controller:0205
+[2018.02.24-13.17.30:218][560]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BrainComponent from function: 'ExecuteUbergraph_AI_Controller' from node: Stop Logic in graph: EventGraph in object: AI_Controller with description: Accessed None trying to read property BrainComponent
+[2018.02.24-13.17.30:276][560]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-13.17.35:440][868]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 1
+[2018.02.24-13.17.42:323][281]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 2
+[2018.02.24-13.17.42:373][284]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 3
+[2018.02.24-13.17.42:423][287]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 0
+[2018.02.24-13.17.42:473][290]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 1
+[2018.02.24-13.17.42:523][293]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 2
+[2018.02.24-13.17.42:573][296]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 3
+[2018.02.24-13.17.42:573][296]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.42:656][301]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.42:723][305]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.42:790][309]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.42:857][313]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.42:940][318]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:023][323]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:106][328]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:173][332]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:256][337]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:340][342]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:407][346]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:457][349]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:523][353]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:590][357]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:673][362]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:740][366]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:823][371]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:890][375]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.43:973][380]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:040][384]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:107][388]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:190][393]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:256][397]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:323][401]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:390][405]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:457][409]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:540][414]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:590][417]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:673][422]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:756][427]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:840][432]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:923][437]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.44:973][440]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:057][445]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:123][449]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:190][453]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:256][457]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:340][462]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:407][466]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:473][470]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:557][475]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:640][480]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:723][485]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:790][489]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:856][493]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.45:873][494]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.46:306][520]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.46:823][551]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.47:423][587]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.47:840][612]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.48:290][639]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.48:790][669]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.48:940][678]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 0
+[2018.02.24-13.17.48:990][681]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 1
+[2018.02.24-13.17.49:040][684]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 2
+[2018.02.24-13.17.49:090][687]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 3
+[2018.02.24-13.17.49:090][687]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.49:140][690]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 0
+[2018.02.24-13.17.49:190][693]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 1
+[2018.02.24-13.17.56:190][113]LogBlueprintUserMessages: [IncrementWaypointTask_C_3] 2
+[2018.02.24-13.17.56:240][116]LogBlueprintUserMessages: [IncrementWaypointTask_C_3] 3
+[2018.02.24-13.17.56:256][117]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.56:440][128]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.56:590][137]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.56:757][147]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.56:907][156]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.57:057][165]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.57:207][174]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.57:390][185]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.57:540][194]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.57:740][206]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.57:940][218]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.58:074][226]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.58:240][236]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.58:390][245]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.58:574][256]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.58:774][268]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.58:874][274]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.59:307][300]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.17.59:757][327]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.18.00:124][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.18.00:171][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.20.29:339][296]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-13.20.30:504][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-13.20.30:561][327]LogSavePackage: Save=52.38ms
+[2018.02.24-13.20.30:561][327]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterF1A52A414644FC92232D0FBEB8CD124D.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-13.20.30:562][327]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-13.21.07:912][535]LogSavePackage: Save=185.32ms
+[2018.02.24-13.21.07:912][535]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/ThirdPersonExampleMap9D13D6374BE71498E496DE96A1D4A20B.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.02.24-13.21.07:914][535]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.02.24-13.24.57:574][311]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2018.02.24-13.25.15:084][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.25.15:088][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-13.25.15:088][315]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2018, 3:25:15 PM)
+[2018.02.24-13.25.15:088][315]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.24-13.25.15:107][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018981s)
+[2018.02.24-13.25.15:108][315]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.24-13.25.15:108][315]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.02.24-13.25.15:108][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020285s)
+[2018.02.24-13.25.15:140][315]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-13.25.15:153][315]LogInit: FAudioDevice initialized.
+[2018.02.24-13.25.15:193][315]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.24-13.25.15:196][315]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.24-14.25.15
+[2018.02.24-13.25.15:197][315]LogWorld: Bringing up level for play took: 0.002334
+[2018.02.24-13.25.15:198][315]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.047
+[2018.02.24-13.25.15:198][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.25.27:843][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.25.27:885][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.25.32:458][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.02.24-13.25.33:693][416]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2018.02.24-13.25.40:571][824]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-13.25.40:589][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.25.40:593][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-13.25.40:594][824]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2018, 3:25:40 PM)
+[2018.02.24-13.25.40:594][824]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.24-13.25.40:612][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017964s)
+[2018.02.24-13.25.40:613][824]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.24-13.25.40:613][824]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2018.02.24-13.25.40:613][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019388s)
+[2018.02.24-13.25.40:642][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-13.25.40:654][824]LogInit: FAudioDevice initialized.
+[2018.02.24-13.25.40:691][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.24-13.25.40:693][824]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.24-14.25.40
+[2018.02.24-13.25.40:693][824]LogWorld: Bringing up level for play took: 0.002127
+[2018.02.24-13.25.40:694][824]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.543
+[2018.02.24-13.25.40:695][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.25.40:696][824]LogScript: Warning: Accessed None trying to read property BrainComponent
+	AI_Controller_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Controller_C_0
+	Function /Game/ThirdPersonBP/Blueprints/AI_Controller.AI_Controller_C:ExecuteUbergraph_AI_Controller:0205
+[2018.02.24-13.25.40:697][824]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BrainComponent from function: 'ExecuteUbergraph_AI_Controller' from node: Stop Logic in graph: EventGraph in object: AI_Controller with description: Accessed None trying to read property BrainComponent
+[2018.02.24-13.25.45:852][132]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 1
+[2018.02.24-13.25.45:902][135]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 2
+[2018.02.24-13.26.04:299][232]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 3
+[2018.02.24-13.26.04:349][235]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 0
+[2018.02.24-13.26.11:624][671]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 1
+[2018.02.24-13.26.11:674][674]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 2
+[2018.02.24-13.26.17:424][ 19]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 3
+[2018.02.24-13.26.17:457][ 21]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:507][ 24]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:557][ 27]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:624][ 31]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:691][ 35]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:741][ 38]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:791][ 41]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:857][ 45]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:924][ 49]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.17:974][ 52]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:024][ 55]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:074][ 58]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:124][ 61]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:191][ 65]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:257][ 69]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:307][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:374][ 76]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:441][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:508][ 84]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:558][ 87]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:608][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:674][ 94]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:741][ 98]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:791][101]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:841][104]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:907][108]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.18:958][111]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:008][114]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:074][118]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:141][122]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:191][125]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:257][129]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:308][132]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:358][135]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:424][139]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:474][142]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:524][145]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:574][148]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:641][152]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:691][155]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:758][159]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:808][162]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:858][165]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:907][168]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.19:974][172]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:041][176]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:107][180]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:157][183]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:207][186]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:274][190]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:324][193]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:374][196]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:424][199]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:474][202]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:525][205]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:591][209]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:641][212]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:691][215]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:741][218]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:808][222]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:874][226]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:941][230]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.20:991][233]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:041][236]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:108][240]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:157][243]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:208][246]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:258][249]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:308][252]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:374][256]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:424][259]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:474][262]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:541][266]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:591][269]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:658][273]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:707][276]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:774][280]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:824][283]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:874][286]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:925][289]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.21:991][293]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:041][296]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:107][300]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:157][303]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:207][306]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:257][309]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:324][313]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:375][316]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:441][320]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:508][324]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.22:524][325]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 0
+[2018.02.24-13.26.26:174][544]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 1
+[2018.02.24-13.26.34:325][ 33]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 2
+[2018.02.24-13.26.34:374][ 36]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 3
+[2018.02.24-13.26.34:425][ 39]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 0
+[2018.02.24-13.26.34:475][ 42]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 1
+[2018.02.24-13.26.34:525][ 45]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 2
+[2018.02.24-13.26.34:575][ 48]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 3
+[2018.02.24-13.26.34:591][ 49]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.34:675][ 54]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.34:724][ 57]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.34:808][ 62]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.34:875][ 66]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.34:941][ 70]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:008][ 74]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:091][ 79]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:175][ 84]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:241][ 88]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:308][ 92]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:374][ 96]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:458][101]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:508][104]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:575][108]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:658][113]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:741][118]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:808][122]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:891][127]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.35:958][131]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:025][135]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:091][139]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:175][144]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:224][147]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:291][151]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:358][155]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:441][160]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:508][164]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:575][168]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:641][172]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:724][177]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:792][181]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:875][186]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.36:958][191]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:025][195]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:108][200]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:175][204]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:241][208]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:325][213]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:375][216]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:458][221]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:542][226]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:624][231]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:675][234]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:741][238]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:808][242]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:875][246]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.37:942][250]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:008][254]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:075][258]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:141][262]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:208][266]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:291][271]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:374][276]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:424][279]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:492][283]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:575][288]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:641][292]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:708][296]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:774][300]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.38:858][305]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 0
+[2018.02.24-13.26.43:908][608]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 1
+[2018.02.24-13.26.43:958][611]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 2
+[2018.02.24-13.26.44:008][614]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 3
+[2018.02.24-13.26.44:058][617]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 0
+[2018.02.24-13.26.44:108][620]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 1
+[2018.02.24-13.26.44:158][623]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 2
+[2018.02.24-13.26.50:392][997]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 3
+[2018.02.24-13.26.50:425][999]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.26.50:442][  0]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 0
+[2018.02.24-13.26.54:092][219]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 1
+[2018.02.24-13.26.56:277][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.26.56:325][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.27.37:448][795]BlueprintLog: New page: Compile AI_Character
+[2018.02.24-13.27.43:829][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI_Character" FILE="D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset" SILENT=true
+[2018.02.24-13.27.43:892][144]LogSavePackage: Save=57.94ms
+[2018.02.24-13.27.43:892][144]LogSavePackage: Moving 'D:/UNREAL/AI_Behaviour/Saved/AI_CharacterFAD13820471D8384E35E6DB2ADEA20EB.tmp' to 'D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset'
+[2018.02.24-13.27.43:894][144]LogSavePackage: Display: Finished SavePackage D:/UNREAL/AI_Behaviour/Content/ThirdPersonBP/Blueprints/AI_Character.uasset
+[2018.02.24-13.28.34:021][149]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-13.28.34:052][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.28.34:059][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-13.28.34:059][149]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 24, 2018, 3:28:34 PM)
+[2018.02.24-13.28.34:059][149]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.24-13.28.34:076][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017503s)
+[2018.02.24-13.28.34:077][149]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.24-13.28.34:078][149]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2018.02.24-13.28.34:078][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018932s)
+[2018.02.24-13.28.34:113][149]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-13.28.34:126][149]LogInit: FAudioDevice initialized.
+[2018.02.24-13.28.34:193][149]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.24-13.28.34:196][149]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.24-14.28.34
+[2018.02.24-13.28.34:196][149]LogWorld: Bringing up level for play took: 0.002091
+[2018.02.24-13.28.34:199][149]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.047
+[2018.02.24-13.28.34:199][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.24-13.28.34:201][149]LogScript: Warning: Accessed None trying to read property BrainComponent
+	AI_Controller_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Controller_C_0
+	Function /Game/ThirdPersonBP/Blueprints/AI_Controller.AI_Controller_C:ExecuteUbergraph_AI_Controller:0205
+[2018.02.24-13.28.34:201][149]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BrainComponent from function: 'ExecuteUbergraph_AI_Controller' from node: Stop Logic in graph: EventGraph in object: AI_Controller with description: Accessed None trying to read property BrainComponent
+[2018.02.24-13.28.39:399][456]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 1
+[2018.02.24-13.28.39:449][459]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 2
+[2018.02.24-13.28.39:499][462]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 3
+[2018.02.24-13.28.39:499][462]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.39:599][468]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.39:682][473]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.39:799][480]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.39:882][485]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:016][493]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:116][499]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:216][505]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:300][510]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:399][516]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:499][522]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:615][529]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:716][535]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.40:949][549]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:032][554]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:149][561]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:265][568]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:366][574]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:466][580]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:549][585]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:650][591]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:766][598]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:849][603]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.41:932][608]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:016][613]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:132][620]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:232][626]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:349][633]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:449][639]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:549][645]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:632][650]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:749][657]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:833][662]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.42:949][669]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:032][674]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:132][680]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:249][687]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:366][694]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:449][699]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:566][706]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:682][713]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.43:783][719]LogBlueprintUserMessages: [IncrementWaypointTask_C_0] 0
+[2018.02.24-13.28.51:149][161]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 1
+[2018.02.24-13.28.51:199][164]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 2
+[2018.02.24-13.28.51:251][167]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 3
+[2018.02.24-13.28.51:301][170]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 0
+[2018.02.24-13.28.51:349][173]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 1
+[2018.02.24-13.28.51:400][176]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 2
+[2018.02.24-13.28.51:449][179]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 3
+[2018.02.24-13.28.51:499][182]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:566][186]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:633][190]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:699][194]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:749][197]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:816][201]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:899][206]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:949][209]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.51:999][212]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:066][216]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:149][221]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:216][225]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:266][228]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:333][232]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:399][236]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:466][240]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:516][243]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:582][247]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:649][251]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:716][255]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:799][260]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:849][263]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:899][266]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.52:983][271]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:049][275]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:116][279]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:183][283]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:249][287]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:316][291]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:382][295]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:432][298]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:499][302]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:566][306]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:632][310]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:682][313]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:732][316]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:799][320]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:849][323]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:933][328]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.53:983][331]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:032][334]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:099][338]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:166][342]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:216][345]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:266][348]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:349][353]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:416][357]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:482][361]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:533][364]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:599][368]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:666][372]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:733][376]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:816][381]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:866][384]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:933][388]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.54:999][392]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:066][396]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:133][400]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:216][405]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:266][408]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:332][412]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:416][417]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:483][421]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:550][425]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:599][428]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:666][432]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:716][435]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:783][439]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:832][442]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:916][447]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.55:966][450]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:033][454]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:099][458]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:166][462]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:232][466]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:299][470]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:366][474]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:433][478]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:483][481]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:549][485]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:616][489]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:683][493]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:749][497]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:816][501]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:883][505]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:933][508]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.56:983][511]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:066][516]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:133][520]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:199][524]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:266][528]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:316][531]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:383][535]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:433][538]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:499][542]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:566][546]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:616][549]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:683][553]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:749][557]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:816][561]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:899][566]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:949][569]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.57:999][572]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.58:066][576]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.58:133][580]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.58:199][584]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'ArrayOfPatrolPoints' of length 3 in '/Game/ThirdPersonBP/Blueprints/PatrolVectors.PatrolVectors_C'!
+[2018.02.24-13.28.58:216][585]LogBlueprintUserMessages: [IncrementWaypointTask_C_1] 0
+[2018.02.24-13.29.04:549][965]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 1
+[2018.02.24-13.29.04:599][968]LogBlueprintUserMessages: [IncrementWaypointTask_C_2] 2
+[2018.02.24-13.29.11:416][377]LogBlueprintUserMessages: [IncrementWaypointTask_C_3] 3
+[2018.02.24-13.29.11:466][380]LogBlueprintUserMessages: [IncrementWaypointTask_C_3] 0
+[2018.02.24-13.29.11:517][383]LogBlueprintUserMessages: [IncrementWaypointTask_C_3] 1
+[2018.02.24-13.29.16:900][706]LogBlueprintUserMessages: [IncrementWaypointTask_C_4] 2
+[2018.02.24-13.29.16:949][709]LogUObjectBase: Warning: Object is not registered
+[2018.02.24-13.29.17:064][709]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.114 s
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: 
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: Stack: 
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000009612786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x00000000093B123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x00000000093CB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x00000000031C33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000001E103AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000000EF3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000000D874AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000000D8ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000000EB8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000005B37397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000005B3CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000005D79913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000005B93484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000005B6B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x0000000005B5D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000000A57E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000000A571A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000000A5803EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000000A56D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000004FFDB85D USER32.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000004FFDB1EF USER32.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000000A581516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000007F5250C8 UE4Editor.exe!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000007F535430 UE4Editor.exe!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000007F5354AA UE4Editor.exe!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000007F542379 UE4Editor.exe!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000007F543D57 UE4Editor.exe!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x000000004D981FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: [Callstack] 0x00000000501FEFC1 ntdll.dll!UnknownFunction []
+[2018.02.24-13.29.17:064][709]LogOutputDevice: Error: 
+[2018.02.24-13.29.17:073][709]LogStats:                SubmitErrorReport -  0.000 s
